@@ -1,0 +1,6386 @@
+Total tags > 200 freqs: 6384
+
+urheilu 155132
+kotimaan uutiset 154576
+urheilutapahtumat 85899
+ulkomaat 84019
+jääkiekko 48307
+joukkueurheilu 47619
+talous 43450
+talviurheilu 37257
+jalkapallo 36311
+miesten jääkiekko 34808
+suomi 33639
+politiikka 31896
+poliisi 30854
+jääkiekkopelaajat (miehet) 29122
+liikenne ja kuljetus 28104
+kulttuuri 25397
+puolueet 24215
+onnettomuudet 21954
+suomen jääkiekko 21629
+maailmancupit 21374
+musiikki 20935
+koulutus ja kasvatus 20660
+venäjä 20172
+tieliikenne 20140
+luonto 20059
+suomen poliittiset puolueet 19892
+urheiluvalmennus 19754
+suomen politiikka 19661
+jääkiekon miesten sm-liiga 19435
+suomalaiset poliitikot 19356
+autot 19070
+jalkapalloilijat (miehet) 17903
+lapset (perheenjäsenet) 17550
+nhl 17263
+lähi-itä 17208
+lapin maakunta 16986
+kuolema, hengenvaara ja loukkaantuminen 16797
+helsinki 16619
+terveys 16616
+jääkiekkoilijat 16560
+yritystiedot 16546
+pohjoismaat 16083
+kunnat 15998
+eurooppa 15971
+rikokset 15729
+hiihtolajit 15595
+vaalit 15561
+yhdysvallat 15218
+pohjois-amerikan jääkiekko 15109
+lainvalvonta 14987
+koulut 14634
+kuolema 14556
+rakentaminen & kiinteistöt 14311
+tampere 14287
+työntekijät 14068
+poliitikot 13860
+pelastuspalvelu 13430
+sää 13407
+nuoret 13379
+hallitukset 13346
+presidentit 13346
+suomalaisuus 13002
+tulipalot 12957
+lapset ja nuoret 12679
+aluehallinto 12544
+perheet 12432
+matkailu 12373
+satakunta 12365
+lyhyet 12150
+oulu 12136
+aasia 12125
+itä-suomi 12018
+arabimaat 12016
+pelastustoiminta 11997
+energia 11876
+lapin lääni 11800
+kansallinen kokoomus 11773
+pohjoismaiset hiihtolajit 11744
+euroopan unioni 11711
+kuopio 11706
+ruotsi 11662
+rovaniemi 11654
+hiihto 11651
+turku 11555
+olympialaiset 11466
+ilmiöt 11359
+keski-suomi 11288
+lappeenranta 11188
+pohjois-savo 11186
+oikeus (oikeudenala) 11070
+aseelliset konfliktit 11041
+moottoriurheilu 10909
+saksa 10889
+etelä-karjala 10866
+työllisyys 10809
+sairaalat ja terveyskeskukset 10806
+jyväskylä 10799
+ruoat 10770
+eduskunta 10550
+eläimet 10538
+työelämä 10431
+yleisurheilu 10425
+pori 10396
+lahti 10392
+pelastustoimi 10319
+kemi-tornion seutukunta 9979
+pirkanmaa 9953
+jalkapalloilijat 9765
+länsi-suomen lääni 9734
+ministerit, ministeriöt ja valtioneuvosto 9724
+hyökkääjä 9612
+autourheilu 9565
+poliisitutkinta 9517
+oikeistopuolueet 9201
+puolustusvoimat 9193
+ranska 9170
+miesten jalkapallo 9150
+terveydenhoito 9126
+maakulkuneuvot 9043
+asunnot 8979
+pohjois-karjala 8924
+yhteiskunnalliset tapahtumat 8799
+liikenneonnettomuudet 8793
+kymenlaakso 8748
+kaupungit 8697
+kotimaan jalkapallo 8597
+taudit 8553
+talvisää 8524
+poliittinen osallistuminen 8501
+joukkoliikenne 8464
+lentoliikenne 8429
+järjestötoiminta 8414
+suomen sosialidemokraattinen puolue 8352
+joensuu 8343
+rahoitus- ja yrityspalvelut 8258
+väkivaltarikokset 8161
+teollisuus 8142
+rangaistukset 8139
+työttömyys 8109
+levottomuudet ja sodat 8065
+päijät-häme 8064
+englannin valioliiga 8049
+perussuomalaiset 8033
+pääkaupunkiseudut 7984
+nisäkkäät 7984
+tampereen seutukunta 7883
+kainuu 7879
+kansainväliset organisaatiot ja sopimukset 7841
+kunnanvaltuustot 7830
+suomen keskusta 7791
+johtajat 7771
+kouvola 7740
+suomen miesten jääkiekkomaajoukkue 7706
+vesi- ja energiahuolto 7684
+lumi 7643
+espanja 7638
+rovaniemen seutukunta 7596
+varsinais-suomi 7580
+teatteritaide 7513
+johtajuus 7461
+etelä-savo 7447
+veikkausliiga 7433
+vähittäiskauppa 7396
+kanta-häme 7385
+maajoukkueet 7354
+vankeus 7333
+lomautukset ja irtisanomiset 7329
+porin seutukunta 7308
+selkärankaiset 7299
+oulun seutukunta 7295
+britannia 7279
+kuopion seutukunta 7272
+pohjois-pohjanmaa 7256
+palkka ja työsuhde-edut 7245
+tieliikenneonnettomuudet 7200
+loma-, juhla- ja vapaapäivät 7178
+lahden seutukunta 7125
+hämeenlinna 7124
+formula 1 7124
+liikenne 7102
+pohjanmaa 7093
+terrorismi 7071
+verotus 7059
+tapahtumat 7012
+italia 6991
+liikuntatilat 6983
+varallisuusrikokset 6972
+jyväskylän seutukunta 6968
+koripallo 6951
+valtiovalta 6949
+tietotekniikka 6948
+kunnallishallinto 6835
+lappeenrannan seutukunta 6754
+brittien jalkapallo 6728
+pääministerit 6715
+lääkärit 6715
+elokuvat 6701
+pohjois-amerikka 6682
+etelä-suomen lääni 6659
+kiina 6589
+rata-autoilu 6580
+taide 6536
+opiskelijat 6504
+muuttoliike 6490
+mikkeli 6454
+valtiot, maat ja kansakunnat 6420
+norja 6390
+vesistöt 6314
+kuntoliikunta 6293
+vaasa 6283
+turun seutukunta 6266
+myynti 6263
+rahoitus 6232
+rautatieliikenne 6223
+mielenosoitukset 6218
+formula 1 -kuljettajat 6193
+kemi 6185
+kansanedustajat 6180
+luonnononnettomuudet 6167
+koulutus 6148
+vesiliikenne 6136
+pankkitoiminta 6136
+kirjallisuus 6128
+joensuun seutukunta 6126
+yle 6107
+tapaturmat 6080
+liiketoiminta 6067
+tiede 6062
+väkivalta 6061
+internet 6028
+kuntapolitiikka 5981
+ukraina 5922
+koululaiset 5919
+taiteellinen ilmaisu ja mediat 5916
+syyria 5908
+pohjois-eurooppa 5905
+etelä-pohjanmaa 5879
+elinkeino-, liikenne- ja ympäristökeskus (ely) 5873
+rakennukset 5870
+historia 5866
+epäillyt 5849
+muusikot 5846
+tutkimus 5823
+viihde 5819
+irtisanominen 5802
+kotka 5770
+osallistu 5765
+remontti 5717
+juhlapäivät 5679
+sateinen sää 5675
+sairaanhoitopalvelut 5672
+tornio 5667
+joulu 5666
+aamu-tv 5653
+aseet 5627
+matkustajaliikenne 5611
+maaseutuelinkeinot 5584
+muu urheilu 5580
+korkeakoulut 5569
+suomenmestaruus 5555
+oulun lääni 5555
+autoilijat 5539
+makrotalous ja talouspolitiikka 5501
+yrittäjyys 5480
+afrikka 5477
+tieverkot 5471
+turvapaikanhaku 5441
+khl 5429
+vesikulkuneuvot 5365
+uskonto 5359
+urheilujärjestöt 5305
+vanhemmat 5283
+rata-autoilukuljettajat 5268
+henkirikokset 5232
+hämeenlinnan seutukunta 5200
+työllisyys ja työttömyys 5193
+kotkan–haminan seutukunta 5181
+työmarkkinapolitiikka 5181
+palkansaajajärjestöt ja ammattiliitot 5177
+työvoima 5166
+yk 5143
+kaupunkiseudut 5113
+mestarien liiga 5108
+poliisin toimenpiteet 5106
+kansalaistoiminta 5090
+terveydenhuoltolaitokset 5081
+kulkuneuvot 5064
+turvallisuus 5055
+sähkö 5054
+ylex 5050
+kreikka 5044
+kylmä rintama 5031
+lainsäädäntö 5005
+matkapuhelimet ja mobiililaitteet 4999
+kaivosteollisuus 4987
+päihteet 4978
+ihmissuhteet 4920
+kalat 4906
+kuntauudistus 4881
+kouvolan seutukunta 4859
+yle uutisten artikkeliarkisto 4859
+pommit ja räjähdykset 4850
+luontoharrastukset 4850
+juoksu 4827
+sota 4818
+energia-ala 4806
+konservatiiviset puolueet 4801
+työpaikka (toimi) 4800
+kokkola 4763
+keski-pohjanmaa 4741
+yhteistoimintamenettely 4716
+osallistuminen 4703
+aluepolitiikka 4686
+kanada 4656
+sosiaalinen media 4622
+kiinteistöt 4618
+lämpötila 4617
+kuntayhtymät 4615
+kulttuuri- ja taidetapahtumat ja -näyttelyt 4600
+tennis 4583
+sijoittaminen 4583
+imatra 4579
+media 4565
+maaliikenne 4563
+elämäntapa ja vapaa-aika 4537
+pohjois-afrikka 4529
+aluekehitys 4527
+maakunnat 4526
+luonnonsuojelu 4501
+opiskelu 4479
+maaottelut 4470
+vesihuolto 4461
+laulaminen 4455
+loppuottelut 4443
+metallit ja mineraalit 4414
+työ- ja elinkeinoministeriö 4391
+kaupunginhallitukset 4383
+harrastukset 4379
+espoo 4346
+kirjailijat 4342
+sveitsi 4336
+jääkiekon mm-kisat 4325
+populistiset puolueet 4310
+tuomioistuimet 4293
+jääkiekkopuolustajat 4286
+tiet 4248
+palkinnot 4244
+päivähoito 4223
+lentopallo 4201
+euroskeptiset poliittiset puolueet 4185
+pyöräily 4180
+etujärjestöt 4179
+lainamarkkinat 4173
+metsät 4171
+linnut 4163
+potilaat 4159
+köyhyys ja sosiaaliturva 4133
+ralliautoilu 4128
+festivaalit 4124
+museot 4110
+japani 4106
+mikkelin seutukunta 4099
+vantaa 4058
+ympäristönhuolto 4051
+kaupankäynti 4049
+viranomaiset 4037
+finanssiala 4028
+kristinusko 4027
+etelä-amerikka 4015
+maankäytön suunnittelu 4011
+opettajat 4009
+rauma 3995
+televisio (joukkoviestimet) 3988
+asuminen 3964
+imatran seutukunta 3954
+helsingin seutu 3949
+sosiaalidemokraattiset puolueet 3948
+turkki 3944
+formula 1 -tallit 3943
+liikuntaseurat 3920
+vaatteet 3920
+keskustelu (suora linja) 3918
+puhelimet 3917
+la liga 3903
+sakko 3897
+miesten yleisurheilu 3856
+ulkoasiainministeriö 3852
+urheilurangaistus 3836
+rahoituspalvelut 3828
+junat 3800
+vuotuisjuhlat 3793
+venäjän jääkiekko 3786
+oulun kärpät (jääkiekon miesten liiga) 3780
+lukio 3780
+lääkkeet 3773
+alkoholijuomat 3771
+seurakunnat 3765
+jokerit 3730
+lainsäädäntöelin 3722
+yhdyskuntapalvelut 3707
+metsäteollisuus 3707
+metsästys 3698
+laskusuhdanne 3693
+kansainvälinen politiikka 3692
+kaupunginjohtajat 3684
+tshekki 3679
+terveydenhuoltohenkilöstö 3670
+luonto ja ympäristö 3666
+tv ja elokuvat 3665
+konsertit 3650
+vihreä liitto 3637
+meret 3636
+myrskyt 3627
+ydintekniikka 3622
+jääkiekkomaalivahdit 3620
+uusimaa 3619
+tapahtumahallit ja -areenat 3616
+urheiluvammat 3609
+suomen miesten jalkapallomaajoukkue 3606
+sähköntuotanto ja -jakelu 3593
+kuorma-auto & rekka 3581
+pelit 3575
+amerikan manner 3564
+johtaminen 3560
+toimeentuloturva 3558
+pohjoismaiset agraaripuolueet 3555
+järvet 3555
+kotitalouksien tulot ja rahankäyttö 3554
+sosiaaliset kysymykset 3552
+kasvit 3548
+tappara (jääkiekon miesten liiga) 3547
+räjähdykset 3545
+huumeet 3540
+toisen asteen koulutus 3522
+terveydenhuolto- ja sosiaalipalvelut 3520
+oikeudenkäynti 3518
+sosiaali- ja terveyshallinto 3518
+kansainvälisyys 3514
+sosiaali- ja terveysjärjestöt 3512
+kuntakehitys 3511
+uusiutuvat energialähteet 3509
+lontoo 3506
+savonlinna 3503
+petoeläimet 3502
+henkilöautot 3501
+miesten koripallo 3500
+pohjarakennus 3495
+kielet 3495
+hotellit 3494
+sopimukset 3491
+vaasan seutukunta 3485
+vesivahingot 3484
+tekniikka 3475
+rauman seutukunta 3452
+korkea-asteen koulutus 3451
+materiaalit 3446
+uinti 3444
+yle uutiset selkosuomeksi 3441
+vanhukset ja ikääntyminen 3437
+kysyntä ja tarjonta 3424
+talousvaikeudet 3392
+rallin mm-sarja 3392
+vankeinhoito 3389
+valtiovarainministeriö 3388
+tanska 3384
+talousleikkaukset 3377
+sääennusteet 3372
+valtiontalous 3370
+maanpuolustus 3363
+jalkapallovalmentaja 3342
+tietoliikennelaitteet 3341
+kotieläimet 3336
+sanoma- ja aikakauslehdet 3333
+puolustuspolitiikka 3332
+ammatillinen koulutus 3305
+urheilumitalit 3298
+pakolaiset 3292
+elämäntapa 3273
+autonkuljettajat 3272
+fyysinen kunto 3268
+ydinenergia 3264
+koira 3258
+miesten tennis 3256
+verkkopalvelut 3256
+alankomaat 3251
+palokunnat 3244
+sosiaali- ja terveyspalvelut 3244
+ampumavälikohtaus 3238
+australia 3232
+keskussairaalat 3231
+pohjois-lapin seutukunta 3222
+kansallinen mestaruus 3219
+kunnanjohtajat 3219
+uimalajit 3206
+kotimaan koripallo 3205
+jätteet 3187
+julkiset virat 3187
+sauli niinistö 3179
+kimi räikkönen 3172
+puola 3168
+maahanmuuttajat 3167
+viro 3160
+autoteollisuus 3157
+professorit 3150
+kalastus 3150
+anatomia 3136
+tartuntataudit 3128
+valtion talousarviot 3111
+jalkapallon mm-kisat 3110
+päihtymys 3109
+koiraeläimet 3107
+kansallinen tai etninen vähemmistö 3104
+työtaistelut 3103
+presidentinvaalit 3086
+teollisuustuotteet ja -palvelut (sektori) 3084
+koti ja asuminen 3076
+tavaratalot & ostoskeskukset 3071
+kaakkois-aasia 3068
+naisten hiihto 3066
+kirkkokunnat 3057
+joet 3054
+vallankaappaukset 3053
+kilpa-autoilijat 3048
+tunturi-lapin seutukunta 3039
+miesten hiihto 3033
+henkilöstöjohtaminen 3028
+hinnoittelu 3027
+edunvalvonta 3019
+ammattikorkeakoulut 3012
+pahoinpitely 3007
+kuntavaalit 2997
+brasilia 2997
+mäkihyppy 2980
+lapsiperheet 2965
+vasemmistoliitto 2964
+työnantajat 2963
+suomalaiset 2959
+donald trump 2959
+rajavalvonta 2957
+vesiurheilu 2956
+doping 2933
+hevonen 2930
+ampumahiihto 2912
+omakotitalot 2908
+pesäpallo 2904
+yritysjohtajat 2901
+sotilaat 2899
+kulttuurit (kulttuurimuodot) 2891
+murha 2890
+hyvinvointi 2890
+valuuttamarkkinat 2889
+satamat 2889
+uutiset 2884
+baltian maat 2879
+metsä- ja paperiteollisuus 2878
+kerrostalot 2877
+rahalaitokset 2877
+pääkaupungit 2872
+jalkapallovalmentajat 2872
+englanti 2869
+sähkökatkot 2869
+rahapelit 2857
+kestävä kehitys 2852
+pohjois-suomi 2851
+liiketila 2850
+suurkaupungit 2845
+jyp (jääkiekon miesten liiga) 2844
+diplomatia 2843
+sisäministeriö 2842
+lontoon olympialaiset 2012 2837
+uutistoimistot 2832
+seinäjoen seutukunta 2832
+jääkiekkovalmentajat 2830
+terveyspalvelut 2828
+moottoripyörät 2826
+turvapaikanhakijat 2818
+sairaanhoitajat 2814
+seinäjoki 2805
+espanjan jalkapallo 2799
+vanhukset 2797
+valtiontukiorganisaatiot 2797
+puutarhanhoito 2796
+ihmisoikeudet 2795
+riiteleminen 2795
+väestötiede 2789
+euro 2786
+sosiaalipalvelut 2785
+israel 2776
+itä-lapin seutukunta 2774
+kirjat 2772
+riistatalous 2765
+taloussuunnittelu 2761
+veneily 2760
+peruskoulut ja lukiot 2752
+hyväntekeväisyys 2745
+ferrari 2742
+tulvat 2740
+kansainväliset jalkapallo-ottelut ja -turnaukset 2739
+rauman lukko (jääkiekon miesten liiga) 2734
+belgia 2724
+muoti 2719
+vladimir putin 2718
+näyttelijät 2713
+luonnonvarat 2708
+kajaani 2704
+äitiys 2703
+sähköhuolto 2698
+juomat 2696
+tps (jääkiekon miesten liiga) 2693
+mökkeily 2686
+talousrikokset 2685
+yhdysvaltain presidentti 2684
+ilmasto 2677
+työsuhde 2676
+öljy 2662
+tulostiedot 2655
+sote-uudistus 2653
+ravintokasvit 2652
+kalpa (jääkiekon miesten liiga) 2651
+vaikuttaminen 2648
+puut 2647
+lääkkeet ja päihteet 2644
+moskova 2643
+liikennejuopumus 2636
+taloudellinen tila 2635
+teknologia 2634
+lentokentät 2634
+lakot 2630
+euroopan komissio 2618
+liikuntaharjoitukset 2617
+vammaiset 2614
+ammunta 2613
+sotšin olympialaiset 2014 2613
+ravintolat 2612
+tilastotiede 2610
+kuvataide 2607
+yhdyskuntasuunnittelu 2600
+vähemmistöt 2596
+elokuva, kirjallisuus ja audiovisuaalinen media 2595
+kulutushyödykkeet 2589
+yle saame 2587
+maaseutu 2586
+grand slam 2578
+ammattitaito 2577
+pörssit 2576
+aikuiset 2571
+rock 2569
+kokkolan seutukunta 2567
+kamppailulajit 2566
+liikennerikkomukset 2565
+kajaanin seutukunta 2559
+työturvallisuus ja -terveys 2557
+seksuaalirikokset 2555
+liikenne- ja viestintäministeriö 2553
+bundesliiga (naiset) 2546
+sähkö-, kaasu- ja vesihuolto 2542
+yhteiskunta 2541
+öljy ja kaasu 2537
+erämaat 2535
+liikevoitto 2531
+rion olympialaiset 2016 2529
+ylä-savon seutukunta 2528
+musiikkikeikat 2527
+evakuointi 2525
+helsingin jalkapalloklubi 2513
+keskikenttäpelaaja 2512
+jäteveden käsittely 2512
+linja-autoliikenne 2510
+televisio-ohjelmat 2507
+metalliteollisuus 2501
+kulutustavarat ja -palvelut (sektori) 2499
+kunnanhallitukset 2498
+nokia oyj 2488
+valtion virkamiehet 2486
+ässät (jääkiekon miesten liiga) 2485
+eduskuntavaalit 2484
+euroalue 2482
+juhannus 2482
+virustaudit 2481
+extreme-urheilu 2478
+portugali 2477
+mestis 2476
+juha sipilä 2469
+lentokoneet 2468
+sanomalehdet 2465
+säätiöt ja apurahat 2459
+korea (historia) 2457
+fc barcelona 2454
+hamina 2447
+savonlinnan seutukunta 2443
+saimaa 2437
+avustustoiminta 2437
+isis 2437
+polttoaineet 2434
+saipa (jääkiekon miesten liiga) 2420
+tiimityö 2410
+alppihiihto 2410
+saamelaiset 2409
+ääri-islam 2401
+kittilä 2397
+hpk (jääkiekon miesten liiga) 2392
+euroopan jalkapalloliitto 2389
+kilpailukiellot 2388
+linja-autot 2378
+johtoryhmät (hallintoelimet) 2374
+forssan seutukunta 2370
+asuinalueet 2369
+rahtiliikenne 2368
+yle areena 2362
+internet ja muut tietoverkot 2360
+massa- ja paperiteollisuus 2358
+scuderia ferrari 2355
+maanviljely 2353
+puolustaja 2352
+yhdysvaltojen politiikka 2351
+sisäilmaongelmat 2351
+skandaalit 2347
+lääketeollisuus 2346
+irak 2344
+valtionyhtiöt 2341
+pelicans (jääkiekon miesten liiga) 2336
+toimittajat 2335
+keihäänheitto 2334
+naiset 2331
+ilmatieteen laitos 2322
+palvelutalot 2304
+nba 2295
+a-studio 2292
+hätäkeskukset 2286
+museot, näyttelyt sekä historiallisten paikkojen ja rakennusten suojelu 2284
+elintarviketeollisuus 2280
+saastuminen 2279
+egypti 2274
+pariisi 2268
+laitoshuolto 2268
+manchester united fc 2266
+korisliiga 2265
+nato 2263
+rannikot 2263
+luonnonvoimat 2258
+raskaus 2248
+kylät 2247
+investointien hallinta 2247
+perusturva 2245
+seksi 2229
+julkinen hallinto 2220
+riihimäki 2217
+sotkamo 2217
+ilmastonmuutos 2214
+pidättäminen 2211
+verkkovika (sähkö) 2208
+suomalaiset jääkiekkolegendat 2208
+talousindikaattorit 2204
+itä-afrikka 2204
+yle tv1 2195
+kansallinen tai etninen ryhmä 2193
+golf 2192
+vasemmistopuolueet 2192
+yhdysvaltain demokraattinen puolue 2190
+raiteet 2184
+peruskoulu 2183
+parisuhde 2183
+miesten lentopallo 2181
+hallinto-oikeus (erikoisalat) 2177
+tanssi 2172
+afganistan 2168
+tähtitiede 2168
+suomen kieli 2165
+työllistyminen 2160
+tutkijat 2152
+hevosurheilu 2150
+jätehuolto 2146
+kuluttaja-asiat 2139
+lomautus 2138
+länsi-afrikka 2133
+keski-aasia 2131
+konkurssi 2131
+raha 2130
+aluehallintovirasto 2129
+salibandy 2125
+tilastokeskus 2125
+kevyt liikenne 2122
+riihimäen seutukunta 2121
+ostokset 2113
+aurinkoinen sää 2109
+taidemusiikki 2094
+tietoturva 2094
+alkuperäiskansat 2094
+ulkopolitiikka 2092
+olympiamitalit 2091
+kriisinhallinta 2091
+työmarkkinat 2090
+internetyhteisö 2088
+metsätalous 2088
+huumori 2087
+kirjastot 2084
+sisäilma 2084
+näyttelyt 2082
+vapaa-aika 2082
+ilmavoimat 2076
+ilmakulkuneuvot 2073
+peruskorjaus 2070
+serie a 2069
+suomirock 2066
+etelä-korea 2065
+sprinttihiihto 2065
+luistelu 2063
+urheilufanit 2060
+liikevaihto 2059
+eläkkeelle siirtyminen 2057
+lahjonta 2057
+liharuoat 2052
+terveydenhoitoala 2052
+rehtorit 2052
+saksan jalkapallo 2046
+juniorijoukkueet 2046
+harrastajat 2043
+barack obama 2042
+baltia 2041
+talvivaara 2040
+metsähallitus 2039
+suomenkielinen kirjallisuus 2036
+vapaa-ajan asunnot 2036
+lehdistötilaisuus 2031
+sukupuoli 2031
+forssa 2029
+islamismi 2028
+pysäköinti 2023
+marjat 2023
+suomalainen musiikki 2021
+pientalot 2020
+majoitus- ja ravitsemistoiminta 2018
+keminmaa 2016
+kesäolympialaiset 2016
+pohjois-korea 2009
+avioliitot 2009
+liikenneruuhkat 2009
+työehtosopimukset 2009
+ajoradat 2006
+näytelmät 2004
+rasismi 2002
+jalkapallon mm 2014 2001
+kaivokset 1994
+viat ja ongelmat 1990
+menojen leikkaaminen 1990
+inari 1990
+sähköiset viestimet 1988
+tuomiot 1988
+yrityshallituksen puheenjohtaja 1985
+kunnalliset palvelut (julkiset palvelut) 1985
+urheiluennätykset 1984
+keskustapuolueet 1983
+miesten superpesis 1983
+yhdysvaltain osavaltiot 1982
+real madrid cf 1982
+nopeusrajoitukset 1979
+tukholma 1976
+sodankylä 1976
+australaasia 1964
+hyödykkeet  1963
+naisurheilu 1963
+tieliikenneturvallisuus 1961
+argentiina 1959
+terveydenhuollon, opetuksen, kulttuurin ja muiden yhteiskuntapalvelujen hallinto 1955
+isyys 1953
+lämmin rintama 1951
+islam 1949
+rautatieinfrastruktuuri 1948
+avioliitto ja parisuhde 1947
+puhelinvalmistajat 1945
+palopäälliköt 1942
+varallisuus 1938
+jyrki katainen 1937
+yleisradioyhtiöt 1934
+palveluala 1932
+terrafame 1929
+keskinäinen toiminta 1921
+jalat 1920
+vapaaehtoistyö 1920
+suomen lentopallo 1920
+kotieläintalous 1917
+opetusministeriö 1913
+kontiolahti 1910
+papit 1909
+taiteen ja kulttuurin tuotanto ja hallinto 1908
+valtion tuet 1902
+kansainväliset pakotteet 1901
+kierrätys 1900
+maksuvälineet 1899
+itämeri 1899
+slovakia 1897
+liikennelait 1893
+chelsea fc 1888
+vauvat 1888
+venäläiset poliitikot 1888
+fossiiliset polttoaineet 1879
+media-ala 1873
+timo soini 1873
+hirvieläimet 1871
+tampereen ilves (jääkiekon miesten liiga) 1870
+kadonnut henkilö 1869
+poliisipartio 1869
+laiton uhkaus 1865
+mäkihyppääjät 1861
+hyönteiset 1860
+esitutkinta 1859
+liikennerikokset 1859
+rakennustyömaa 1858
+sähköverkot 1854
+jämsä 1854
+rajojen vartiointi ja väestönsuojelu 1853
+yhdysvaltalaiset poliittiset puolueet 1851
+keskuspankit 1850
+ravitsemisliikkeet 1843
+kemijärvi 1841
+elokuvan tyylilaji 1836
+rakennusaineet 1834
+mainonta 1834
+unkari 1834
+vahingonteko 1830
+ihmiset 1830
+kansannousut 1829
+vuokra-asunnot 1828
+seksuaalinen väärinkäytös 1828
+jari-matti latvala 1828
+verkkolaitteet 1824
+uskonnot 1824
+helle 1824
+veneet 1823
+kielelliset vähemmistöt 1819
+alppilajit 1816
+puolustusministeriö 1815
+tunne-elämä 1815
+venäjän politiikka 1815
+ekoenergia 1806
+iran 1805
+suomen jalkapallon ensimmäinen divisioona (ykkönen) 1803
+esimiehet 1802
+liikennehäiriöt 1801
+moottoripyöräily 1798
+elintarvikkeiden, juomien ja tupakan vähittäiskauppa 1797
+urheilujohtajat 1796
+demokratia 1794
+meteorologit 1792
+kirurgia 1792
+libya 1789
+valtteri bottas 1789
+polkupyörät 1788
+postin toiminta 1786
+suuret lentoyhtiöt 1785
+kotimaa 1782
+jalankulku 1781
+kansainvälinen kauppa 1781
+ympäristöjärjestöt 1781
+sosiaali- ja terveysministeriö 1779
+vakoilu 1779
+ulkoasiain hallinto, maanpuolustus ja järjestystoimi 1769
+punainen risti 1765
+yhteisöt 1761
+hevoseläimet 1760
+mielipidemittaukset & markkinatutkimukset 1751
+kulta ja arvometallit sekä niiden louhinta 1750
+urheilutilastot 1749
+kristillisdemokraattiset puolueet 1749
+velkakriisit 1749
+äänekoski 1748
+itävalta 1747
+väylävirasto 1745
+palestiina (alue) 1744
+auton osat ja tarvikkeet 1740
+varhaiskasvatus 1740
+työpolitiikka 1739
+julkisuuden henkilöt 1736
+perustuslait 1735
+hallituksen jäsen 1734
+asiakirjat 1732
+ammatit 1730
+intia 1725
+ystävyys 1723
+journalismi 1720
+jääkiekkolegendat (miehet) 1717
+kuusamo 1711
+aviopuolisot 1708
+miesten keihäänheitto 1706
+lapin talviurheilukeskukset 1703
+yhdysvaltain republikaaninen puolue 1696
+geologia 1693
+kilpailuttaminen 1692
+suomen kristillisdemokraatit (kd) 1688
+valko-venäjä 1685
+italian ajoneuvomarkkinat 1685
+ruumis 1683
+hifk (jääkiekon miesten liiga) 1683
+pietarsaari 1682
+varkaus 1680
+teleoperaattorit 1676
+kaupunkisuunnittelu 1674
+vienti 1673
+mercedes 1671
+autoihin liittyvät palvelut 1668
+kamerat 1667
+paperiteollisuus 1664
+radio (joukkoviestimet) 1663
+fiba 1662
+tuulienergia 1660
+palovahingot 1656
+ryhmät 1655
+ammatilliset oppilaitokset 1655
+suomen yliopistot 1654
+tunteet 1654
+karhu 1650
+kolumnit 1650
+vr-yhtymä 1649
+manchester city fc 1649
+ympäristöministeriö 1648
+puukotus 1647
+naisten ampumahiihto 1647
+pelastushenkilöstö 1646
+elinikä 1644
+kuninkaalliset 1643
+seismologia 1642
+pysäköintialueet 1641
+murto 1640
+maa- ja metsätalousministeriö 1639
+sotši 1639
+muistiorganisaatiot 1637
+hengenvaara 1632
+helikopterit 1628
+opetusviranomaiset 1627
+markkinat 1625
+www-sivustot 1625
+sorkkaeläimet 1623
+valtioneuvosto 1623
+nuorisourheilu 1623
+terveyden ja hyvinvoinnin laitos 1622
+euroopan parlamentti 1621
+jäähy (jääkiekko) 1619
+perusopetus 1617
+liverpool fc 1617
+yhdistetty hiihto 1617
+tietokoneet 1615
+vakuutus 1615
+lääketiede 1614
+osakkeet ja arvopaperit 1614
+sápmi 1613
+arsenal fc 1612
+serbia 1612
+urheilupalkinnot 1611
+mielenterveys 1611
+urakkatyö 1607
+2000-luku 1606
+maanjäristykset 1605
+sähkönsiirto 1603
+hätätilanteet 1603
+syytteet 1602
+hankasalmen seutu 1601
+lieksa 1599
+italian jalkapallo 1593
+laskentatoimi 1593
+tavat ja perinteet 1592
+jihadismi 1592
+saaristo ja saaret 1591
+slovenia 1590
+huoltamot 1586
+talkoot 1585
+ikääntyneet 1584
+lento-onnettomuudet 1584
+maanomistus 1581
+muu palloilu 1576
+asuntolat 1576
+aivot ja hermojärjestelmä 1576
+radio- ja televisiotoiminta 1573
+kalastajat 1572
+tietokoneohjelmat 1572
+hallintotuomioistuimet 1570
+messut 1568
+vaarallinen sää 1563
+biologia 1562
+kiinteistökauppa 1562
+pielisen karjalan seutukunta 1561
+iisalmi 1559
+hämeen maakunta (hist.) 1556
+asiakaspalvelu 1553
+jäähallit 1553
+suomen ruotsalainen kansanpuolue 1552
+peltoviljely 1551
+sukulaiset 1549
+julkisoikeus 1547
+pätkätyö 1546
+facebook 1545
+raviurheilu 1545
+ukkonen 1544
+vaalipiirit 1542
+alexander stubb 1540
+sebastian vettel 1537
+juhlinta 1536
+telakkateollisuus 1535
+köyhyys 1534
+lumilautailu 1531
+uimarit 1530
+maastopalot 1529
+influenssa 1526
+berliini 1526
+painetut julkaisut 1525
+militantit 1525
+haavoittuminen 1525
+posti- ja kuriiritoiminta 1524
+kaisa mäkäräinen 1524
+lewis hamilton 1524
+ääriliikkeet 1520
+parikkala 1520
+talviolympialaiset 1520
+rangaistuspotku 1518
+sisarukset 1516
+aikuiskoulutus 1516
+urheilutuomarit 1516
+saarijärven–viitasaaren seutukunta 1516
+maanviljelijät 1515
+moottoripyöräurheilu 1512
+mellakat 1511
+pikajuoksu 1510
+vesiliikenneonnettomuudet 1510
+blogit 1503
+dokumenttielokuvat 1499
+aseistautunut henkilö 1498
+rakennusten tai niiden osien rakentaminen sekä maa- ja vesirakentaminen 1494
+valokuvaus 1493
+latvia 1488
+vangit 1488
+lappi 1482
+suomen miesten koripallomaajoukkue 1481
+ryöstö 1480
+nyrkkeily 1480
+talon rakenteet ja rakennusosat 1478
+poliittiset johtajat 1478
+näkökulmat 1477
+hallitusneuvottelut 1477
+huumausainerikokset 1476
+saunat 1475
+länsi-saimaan seutukunta (hist.) 1474
+sukset 1473
+tuuli 1471
+elokuvaohjaajat 1469
+musiikkitallenteet 1468
+peking 1467
+golfaajat 1467
+kirjastot ja arkistot 1467
+rekrytointi 1466
+huijaus 1465
+hakemukset 1464
+bbc 1463
+suunnistus 1462
+riistanhoito 1462
+rajavartiolaitos 1461
+arkkitehtuuri (erikoisala) 1460
+lahjoitukset 1460
+tupakkatuotteet 1458
+tuhotyö 1455
+kemianteollisuus 1454
+tappo 1454
+ulkoilu 1453
+kuntalaiset 1452
+kroatia 1452
+uni (biologiset ilmiöt) 1452
+suomen ammattiliittojen keskusjärjestö sak 1448
+rikosilmoitukset 1447
+avaruusohjelmat 1446
+taksiliikenne 1445
+pedagogiikka 1438
+bakteerit 1437
+lentoturvallisuus 1436
+lainat 1435
+heinola 1435
+lämpöhuolto 1434
+yhteiskunnalliset objektit 1434
+globalisaatio 1434
+märehtijät 1433
+korkein hallinto-oikeus (hallintotuomioistuimet) 1431
+julkinen keskustelu 1429
+maitotaloustuotteet 1429
+kansainväliset suhteet 1427
+moottoritiet 1427
+em-karsinta 1426
+urakehitys 1425
+finnair 1423
+suomirap 1423
+kunnalliset terveyskeskukset 1423
+homoseksuaalisuus 1422
+ylinopeus 1421
+messut, konferenssit ja seminaarit 1419
+taidemuseot 1419
+lobbaus 1418
+tietoliikenne 1417
+julkinen sektori 1415
+keskushyökkääjä (jääkiekko) 1415
+kaunokirjallisuus 1414
+rakennuspalo 1413
+elinkeinoelämän keskusliitto (ek) 1410
+pääsiäinen 1410
+association of tennis professionals 1409
+kunnossapito 1408
+englannin mestaruussarja 1407
+maaliikenne; putkijohtokuljetus 1405
+luottamusmiehet 1404
+mobiiliteknologia 1403
+anaheim ducks 1402
+panttivangit 1399
+etsintäpartio 1399
+pysäkit 1399
+pohjarakennustekniikka 1398
+kansainvälinen jalkapalloliitto 1398
+yhdistetyn hiihtäjät 1398
+syövät 1396
+liiketoiminnan lopettaminen 1396
+kotimaiset elokuvat 1395
+oikeusministeriö 1392
+oikeudet 1391
+eläinurheilu 1391
+suomen koripalloliitto 1391
+itsenäisyyspäivät 1389
+pieksämäki 1387
+psykologia 1386
+älypuhelimet 1383
+talouselämän vaikuttajat 1382
+kansanäänestykset 1379
+kotitaloudet (organisaatiot) 1378
+ylivieskan seutukunta 1378
+kehys-kainuun seutukunta 1376
+siilinjärvi 1374
+luonnonvarakeskus 1373
+kustannustoiminta 1367
+tullit 1367
+raahen seutukunta 1367
+yhtenäinen venäjä 1366
+tasa-arvo 1366
+ravitsemus 1365
+tienrakennus 1365
+hovioikeudet 1361
+voitot 1360
+käräjäoikeudet 1359
+silminnäkijät 1358
+jalkapallostadion 1356
+matkustaminen ja työmatkat 1355
+muu vesiliikennettä palveleva toiminta 1355
+susi 1351
+vahingonkorvaus 1350
+varkauden seutukunta 1349
+minnesota wild 1348
+tarjous 1347
+enontekiö 1345
+retkeily 1344
+popmusiikki 1342
+utsjoki 1342
+helsingin kaupunki (hallinto) 1340
+euroviisut 1339
+lohikalat 1338
+irlanti 1337
+pietari 1337
+elintarvikekauppa 1334
+rauhanneuvottelut 1333
+ampuma-aseet 1331
+fc bayern münchen 1330
+uusivuosi 1328
+miesten golf 1327
+talousalueet 1327
+kotipalvelut 1326
+vanhusten palvelutalot 1325
+twitter 1323
+videopelaaminen 1321
+televisiokanavat 1319
+yhdysvaltalaiset poliitikot 1316
+tieliikennekuolemat 1314
+savuke 1310
+työnhaku 1309
+työnantajajärjestöt 1309
+salakuljetus 1308
+työ- ja elinkeinotoimisto 1308
+tiedottajat 1308
+pelko 1307
+fiat s.p.a. 1305
+kansallispuistot 1304
+hyvinkää 1301
+joukkomurha 1301
+ulkomaiden jalkapallo 1301
+kuluttajakäyttäytyminen 1300
+1990-luku 1299
+alihankinta 1299
+aika-ajot (f1) 1296
+kukat 1295
+levottomuudet ja mellakat 1293
+musiikkikilpailut 1291
+ammattiurheilijat 1288
+nimitysuutinen 1286
+nyrkkeilijät 1286
+kansalaisjärjestöt 1283
+osavaltiot 1280
+kosteusvauriot 1278
+chicago blackhawks 1278
+tutkimuslaitokset 1278
+bryssel  1277
+vanhustenhoito 1276
+american hockey league 1276
+imf 1276
+päivittäistavarat 1275
+salo 1274
+asevelvollisuus 1273
+helsingin yliopisto 1273
+mediasalin muut  1272
+teiden kunnossapito 1270
+asuntopalot 1270
+jämsän seutukunta 1270
+tekstiilit 1270
+pyeongchang 2018 1270
+synnytys 1268
+talouskasvu 1265
+talouden pelastuspaketti 1263
+juristit 1262
+kasvitieteelliset puutarhat, eläintarhat ja luonnonpuistot 1262
+kesäloma 1261
+terroristijärjestöt 1260
+erikoissairaanhoito 1258
+siivous 1258
+thaimaa 1255
+suur-lontoo 1255
+maahanmuuttovirasto 1254
+suomen salibandy 1251
+laulut 1250
+diktaattorit 1249
+markkinointiviestintä 1249
+äänekosken seutukunta 1249
+valta 1247
+poro 1247
+vappu 1246
+verkkokaupat 1246
+kulttuuriministeri 1245
+käsityöt (tuote) 1244
+keskusrikospoliisi 1243
+hirvi 1243
+ehdollinen vankeus 1242
+plumbing 1242
+asemakaavat 1241
+rovaniemen palloseura 1241
+ennakkoäänestys 1238
+tieliikennehäiriöt 1236
+leikki (toiminta) 1235
+pittsburgh penguins 1235
+maastoliikenne 1232
+kansallinen kilpailykyky 1231
+state police 1230
+etelä-afrikka 1226
+liikennesää 1226
+raahe 1226
+purjehdus 1225
+asianajajat 1224
+työttömyysturva 1224
+kuolemaan liittyvät tavat ja perinteet 1223
+nba itäinen lohko 1221
+liikemiehet 1221
+leikkaushoito 1218
+kurssit 1218
+biopolttoaineet 1218
+työnhakijat 1217
+päivän kysymykset 1217
+luumäki 1216
+oikeuden päätös 1215
+työttömyysaste 1215
+puuteollisuus 1214
+yleishyödylliset yhteisöt 1213
+romania 1212
+häät (perhejuhlat) 1212
+terroristit 1210
+pietarsaaren seutukunta 1209
+eu-kriittisyys 1208
+pujottelu 1207
+hallituspolitiikka 1206
+krim 1206
+peruskoulun ala-aste 1204
+raiskaus 1202
+tontit 1201
+kova valuutta 1198
+luonnon kauneus 1196
+evankelis-luterilainen kirkko 1193
+työaika 1193
+s-ryhmä 1191
+moottoripyöräilijät 1191
+liittokansleri 1187
+nashville predators 1186
+ladut 1186
+sisäpolitiikka 1185
+tiedonhaku 1185
+uimahallit 1185
+metsien hallinta 1183
+formula 1 grand prix 1183
+kookoo (jääkiekon miesten liiga) 1182
+kalatalous 1181
+ukrainan kriisi 2014 1179
+sotilasarvot 1178
+kesätyö 1178
+meteorologia 1177
+terveyselämäntapa 1175
+kapteeni 1175
+stressi 1174
+neuvostoliitto 1174
+ford motor company 1173
+kestävyysharjoittelu 1172
+jalkapallomaajoukkueet 1171
+keuruu 1170
+sähkö-, kaasu- ja lämpöhuolto 1170
+aselepo 1170
+peruskoulun yläaste 1169
+pääsihteerit  1168
+länsimaiset uskonnot 1167
+maailmanennätys 1167
+maatalousyrittäjät 1167
+poliisilaitokset 1167
+oseania 1167
+kuhmo 1167
+viihdemusiikki 1166
+päätoimittajat 1166
+hinnankorotus 1166
+lvi-työt 1165
+myrkyt 1164
+ensiapu 1164
+jalkapallofanit 1163
+suomussalmi 1163
+boston bruins 1163
+taloustieteilijät 1162
+mikko hirvonen 1162
+asunto-osakeyhtiöt 1160
+mikael granlund 1160
+ylioppilaskirjoitukset 1160
+kahvilat 1159
+globaali 1158
+kampanjointi 1157
+skotlanti 1157
+hollola 1153
+rahoitusmarkkinat 1152
+ilkivalta 1151
+rokotteet 1151
+suomen ennätys 1151
+jalkapallon euroopan-mestaruuskilpailut 1150
+kestävyysjuoksu 1150
+helsingin sanomat 1148
+naisten tennis 1148
+lastenhuolto 1147
+poronhoito 1147
+palomiehet 1146
+lemmikkieläimet 1145
+sisustus 1144
+krista pärmäkoski 1144
+taitoluistelu 1144
+saarivaltio 1143
+lionel messi 1141
+hautaus 1141
+jutta urpilainen 1140
+kiusaaminen 1139
+määrärahat 1139
+saudi-arabia 1139
+eurajoki 1138
+luterilaisuus 1136
+teemu selänne 1136
+talvikisaputki 1136
+antidoping 1135
+kahvi 1135
+ylitornion kunta (ruotsi) 1133
+turve 1132
+savitaipale 1132
+ilomantsi 1132
+hengityselinten taudit 1131
+luonnontieteet 1131
+rakennustarkastus 1130
+suomen alle 20-vuotiaiden jääkiekkomaajoukkue 1129
+angela merkel 1128
+yle maailmalla 1127
+laukaa 1125
+järjestäytynyt rikollisuus 1124
+sairauspoissaolo 1122
+matemaattiset tieteet 1122
+maatilat 1122
+levypallo 1121
+koillismaan seutukunta 1121
+kuvataiteilijat 1120
+oppositiopuolue 1120
+porvoo 1120
+jukurit (jääkiekon miesten liiga) 1120
+terveydenhoitopolitiikka 1119
+olut 1119
+moskovan alue 1119
+meri-lappi 1119
+verotoimistot 1117
+tervola 1117
+islanti 1116
+rakkaus 1116
+koulu- ja työmatkat 1116
+ympäristöluvat 1114
+oslo 1112
+euroopan keskuspankki 1112
+äänestykset 1111
+atlético madrid 1111
+kuntavaalit 2012 1111
+suomen ympäristökeskus 1109
+facebook inc. 1108
+miesten salibandyliiga 1106
+pommitukset ja ohjukset 1106
+tulovero 1105
+hukkuminen 1105
+ravitsemusala 1104
+joutseno 1103
+rangaistuslaukaus (jääkiekko) 1101
+lohi 1100
+keski-uusimaa 1099
+ruoanvalmistus 1097
+kasinot, uhkapelit ja rahapeli- ja vedonlyöntipalvelut 1097
+hiihtokeskukset 1097
+cristiano ronaldo 1097
+kantelut 1097
+hattutemppu 1096
+perämeri 1096
+identifiointi 1096
+ruokolahti 1095
+laskutus 1095
+stanley cup 1094
+pohjois-satakunnan seutukunta 1092
+joukkoviestintä 1091
+ajankohtaisohjelmat 1091
+keski-karjalan seutukunta 1089
+laitteistovalmistajat (tietokonelaitteisto) 1089
+tyttäret 1089
+paralympialaiset 1088
+psyykkinen häiriö 1087
+kaustisen seutukunta 1087
+aistit 1085
+viestintä 1084
+rikkaus 1083
+raivaus 1082
+shoppailu 1081
+juva 1080
+kuntoutuspalvelut 1080
+koulutuskeskukset 1079
+taloudelliset ennusteet 1079
+ovet 1078
+kylpeminen ja saunominen 1078
+korko 1076
+liikenneturvallisuuden vaarantaminen 1075
+espoo blues 1074
+korkeakouluhallinto 1074
+takavarikko 1073
+telepalvelut 1072
+sarjakuvat 1071
+liperi 1071
+liikennevalvonta 1071
+sport (jääkiekon miesten liiga) 1070
+sosialistiset puolueet 1070
+henkilökortit ja -rekisterit 1070
+pakistan 1069
+markkinointi 1069
+manner-kiinan maakunnat 1068
+kauneudenhoito 1067
+vaaralliset kemikaalit 1066
+fennovoima 1066
+elektroniikkateollisuus 1065
+aurinkokunnat 1065
+valokuvat 1063
+pga european tour 1062
+nigeria 1062
+tavaratalot 1062
+erikoistuomioistuimet 1061
+lastensuojelujärjestöt 1060
+kävelykadut 1060
+sosiaalityö 1059
+ratsastus 1059
+jarkko nieminen 1058
+terveysriskit 1055
+florida 1054
+kaukolämpö 1054
+muotoilu 1053
+tuotantotila 1053
+arkeologia 1053
+arktinen alue 1052
+motivaatio 1052
+puoluekokoukset 1052
+maavoimat 1051
+heavy rock 1050
+sastamala 1049
+svenska hockeyligan 1048
+radio-, televisio- ja tietoliikennevälineiden valmistus 1048
+varusmiehet 1048
+populismi 1047
+kansalaisaloitteet 1047
+painonhallinta 1046
+video 1046
+puurakennukset 1045
+projektipäälliköt 1043
+autokauppa 1043
+uimarannat 1042
+aikataulut 1041
+heinolan seutukunta (hist.) 1041
+kansanterveys 1040
+nopeusvalvonta (tieliikenne) 1037
+räntä 1036
+lentäjät 1036
+kuopion palloseura 1036
+kalevan kisat 1036
+iaaf 1036
+somalia 1035
+apteekit 1033
+juventus fc 1032
+maito 1031
+tottenham hotspur fc 1030
+oikeuslaitos 1030
+sébastien ogier 1030
+virkistys 1029
+ulkoistaminen 1028
+kenia 1028
+loimaa 1027
+rautjärvi 1026
+turvallisuusneuvosto 1026
+lähetystöt 1025
+lehmät 1025
+poliisitoimi ja rajojen vartiointi 1025
+wimbledonin tennisturnaus 1025
+ikääntyminen 1024
+tietojärjestelmät 1023
+ambulanssit 1023
+bulgaria 1021
+aitajuoksu 1020
+suomalaiset näyttelijät 1019
+miesten alppihiihto 1019
+janakkala 1018
+ympäristöpolitiikka 1018
+raideliikenne 1017
+hengitystieinfektiot (hengityselinten taudit, infektiot) 1017
+outokumpu 1015
+euro 2012 1015
+vammaisliikunta 1015
+simo 1014
+antti rinne 1014
+ligue 1 1013
+luottamustehtävät 1013
+oopperat (teokset) 1012
+hengityselimistö 1011
+organisaatio 1011
+tilinpäätös 1011
+myyntiedustajat 1011
+lentopallon mestaruusliiga 1011
+suomen palloliitto 1008
+kulttuurikeskukset 1007
+toimialat 1007
+lasten- ja nuortenkirjallisuus 1006
+fortum 1005
+nurmes 1005
+kengät 1004
+euro hockey tour 1004
+asiaohjelmat 1003
+pohjanlahti 1003
+juomavesi 1003
+urheilujoukkueet 1003
+etelä-karjalan sosiaali- ja terveyspiiri (eksote) 1002
+viljakasvit 1002
+hlbtiq 1001
+kaivostoiminta 999
+edmonton oilers 999
+lintuharrastus 999
+renkaat 998
+yrityssaneeraus 998
+meri- ja rannikkoliikenne 998
+ajankohtainen kakkonen 998
+mikroblogit 998
+omaisuudenhoito 998
+ville niinistö 998
+hallituspuolue 996
+suomen cup 996
+nba läntinen lohko 995
+jemen 994
+dallas stars 993
+ihmisen pää ja kaula 993
+tunturit 992
+fc inter turku 992
+suhdetoiminta 991
+valmistuminen 988
+vakuutusyhtiöt 987
+maastohiihdon maailmancup 987
+florida panthers 987
+musiikkifanit 986
+sillat 986
+euroopan matkailu 985
+internet-palveluntarjoaja 983
+ylivieska 983
+huutokauppa 982
+oikeusturva 982
+vuosiloma 981
+rap 981
+äärioikeisto 980
+tohmajärvi 979
+lähin omainen 979
+julkinen talous 978
+toronto maple leafs 977
+päihderiippuvuus 977
+lasten seksuaalinen hyväksikäyttö 976
+suomen talviurheilukeskukset 975
+torniolaakson seutukunta 974
+mopot 974
+ideologiat 973
+rosatom 973
+kuntatalous 972
+opiskelupaikka 972
+euroopan elintarvikevirasto 971
+calgary flames 971
+elinkeinoelämän järjestöt, työnantaja- ja ammattialajärjestöt 971
+korkeat hinnat 970
+rivitalot 970
+ihmiset, eläimet ja tapahtumat 969
+syrjäytyminen 968
+ensihoito 968
+romaanit 968
+kalajoki 966
+200 metrin juoksu 965
+virkavirheet 964
+katot 963
+käymisteitse valmistetut alkoholijuomat 963
+toronto 962
+insinöörit 960
+stora enso 959
+rooma 959
+mikro-organismit 959
+työnvälitys 958
+turun yliopisto 958
+vaalit 2011 958
+metsästysluvat 957
+lukuvuosi 955
+avopalvelut 955
+juurekset 954
+ruoan turvallisuus 953
+tietovuoto 953
+elektroniikan ja sähkölaitteiden valmistus 953
+betoni 952
+hidas kulkuneuvo 951
+ajokortit 950
+orkesterit 949
+koulun johtaminen 949
+huippukokoukset 949
+lohja 948
+huonekalut 946
+sairauden oireet 945
+kesko 945
+kansallisuusaate 944
+ylipaino 944
+arkkitehdit 944
+selluloosa 943
+akateemiset tittelit 943
+jääkiekkofanit 942
+isot antillit 942
+leikkikalut 942
+bašar al-assad 940
+1970-luku 940
+vancouver canucks 940
+eläintarhat 939
+junioriurheilu 939
+paavo väyrynen 938
+100 metrin juoksu 938
+maratonjuoksu 937
+rakennusluvat 937
+uusmedia 936
+kulkuneuvojen valmistus 935
+rahoitustuotteita 935
+separatismi 934
+uhanalaiset lajit 933
+myrskytuhot 933
+paloturvallisuus 933
+muonio 933
+puutarhaviljely 933
+peruna 933
+île-de-francen hallintoalue 931
+pakettiautot 930
+sähkötyöt 930
+ranskalaiset poliitikot 930
+kustannusarviot 929
+tallinna 929
+nauru 928
+tero pitkämäki 927
+lapua 925
+sosiaalisuus 924
+muistisairaudet 923
+luksustavarat 922
+ydinaseet 922
+nuorisotyö 921
+winnipeg jets 921
+lapsen oikeudet 919
+liettua 919
+musiikkijuhlat 919
+rauhanturvaaminen 918
+suomen entiset presidentit 917
+lukiolaiset 916
+sairaanhoito 915
+malesia 915
+yhdysvaltain liittovaltion hallinto 915
+syrjintä 915
+poliittiset järjestöt 914
+iitti 914
+jyväskylän yliopisto 914
+kazakstan 912
+hirmumyrskyt 911
+petteri orpo 910
+pääoma 910
+vanhemmuus 909
+ikäryhmät 909
+kansainvälinen olympiakomitea 909
+seinäjoen tangomarkkinat 909
+ateriat 908
+new york (kaupunki) 907
+rikolliset 906
+hävittäjät (lentokoneet) 906
+krasnodar 906
+kuulo 905
+asuntotuotanto 905
+kuluttajahinnat 904
+madrid 904
+kansainväliset talousjärjestöt 904
+moottorikelkkailu 902
+äänestäminen 902
+usa:n presidentinvaali 902
+kissaeläimet 901
+fc lahti 901
+suomen riistakeskus 900
+virolahti 900
+ilotulitukset 900
+kannabis 899
+päivi räsänen 899
+tour de ski 899
+red bull 899
+patrik laine 899
+thomson reuters 898
+metro 896
+kissa 896
+metsästyslaki 895
+tarjouskilpailu 895
+kangasala 895
+jukka jalonen 894
+kiinteistöjen vuokraus ja hallinta 893
+kurdit 892
+ruumiinosat 892
+julkinen terveydenhuolto 892
+kuuba 891
+tukholman lääni 890
+liverpool 890
+konferenssit 890
+varuskunnat 889
+tietotekniikkayritykset 889
+väkivaltaiset mielenosoitukset 889
+fc honka 889
+roomalaiskatolinen kirkko 889
+vuoret 888
+sananvapaus 888
+ranua 887
+ruotsin kieli 887
+metsänomistajat 886
+yritysmuodot 884
+kampukset 883
+poliisitoimi (toimialat) 883
+rajavartiostot 881
+puistot 880
+kasvaimet 880
+salla 880
+tulotaso 879
+hallitusohjelmat 877
+hiihtovälineet 876
+valtiosääntöoikeus 875
+suomen talous 874
+bensiini 874
+henkilökohtaiset palvelut 874
+käteisraha 873
+jalkapallon rangaistukset 873
+helsinki-vantaan lentoasema 873
+siirtymämetalli 873
+polvet (ruumiinosat) 872
+kauhava 871
+äänioikeus 871
+lounais-suomi 871
+räjähdysaineet 870
+saamen kieli 870
+yhteiskuntasopimus 870
+novak đoković 869
+mercedes-benz 869
+viestintäpäälliköt 868
+hiihtokilpailut 868
+kuolemanrangaistus 867
+kavioeläimet 866
+välimeri 866
+koillis-savon seutukunta 865
+masennus 862
+länsi-uusimaa 862
+suurmyymälät 862
+sanataide 861
+tieto- ja viestintärikokset 861
+lentohenkilöstö 861
+finavia 860
+kuusiokuntien seutukunta 859
+uusikaupunki 859
+vesilinnut 859
+huvipuistot 857
+merivoimat 857
+nokia 857
+korkein oikeus 856
+ylä-pirkanmaan seutukunta 855
+viikonloppumatkat 855
+yhtiöiden hallintoelimet 855
+katalonia 855
+yhdysvaltain dollari 854
+joukkotuhoaseet 853
+salon seutukunta 853
+kriisit ja konfliktit 853
+san jose sharks 852
+verorikokset 852
+ranskan avoin tennisturnaus 852
+jalkapallolegendat (miehet) 852
+paris saint-germain fc 851
+lumimyrskyt 851
+tampereen yliopisto 851
+alkuopetus 850
+tarasov division 849
+euroopan moottoriajoneuvoteollisuus 849
+kauppa 848
+talouskriisi 848
+suupohjan seutukunta 846
+valokuvaajat 846
+sijoitusstrategia 846
+filippiinit 846
+öljyntuotanto 845
+suu ja nielu 845
+cheek 845
+sähkölaitteet 844
+suomen saamelaiskäräjät 844
+ilmahyökkäys 843
+helsingin poliisilaitos 843
+pohjavesi 842
+naantali 841
+miesten pyöräily 841
+veronkorotus 841
+pyhäjoki 841
+verotulot 840
+suurlähettiläät 840
+suomen hiihtoliitto 840
+sanomalehtien kustantaminen 840
+seksuaalivähemmistöt 840
+akava 840
+maalaustaide 840
+ratamoottoripyöräily 838
+1980-luku 838
+tiedonvälitys 837
+detroit red wings 837
+orimattila 837
+planeetat ja kuu (aurinkokunta) 837
+lihateollisuus 836
+henkilöstöhallinto 836
+sisällissodat 836
+jean sibelius 835
+sydän ja verenkiertoelimistö 834
+urheiluseurat 833
+australian avoin tennisturnaus 833
+maarekisteri 832
+leirintä 832
+new york rangers 832
+taloushallinto 832
+baijeri 832
+taloustieteet 830
+kansaneläkelaitos 830
+väestönlaskenta 830
+liikenteen turvallisuusvirasto 829
+kolumbia 829
+kommunismi 827
+konserttikiertue 827
+upseerit 827
+tieliikennevaarat 827
+miehet 827
+iivo niskanen 826
+gazan kaista 826
+naisten jalkapallo 825
+matkakortit ja -liput 825
+riippuvuus 825
+venäjän aluejako 824
+osakeyhtiöt 824
+muammar gaddafi 824
+dokumenttiohjelmat 823
+porvoon seutukunta 822
+rahastot 822
+allergiat 821
+pitkäaikaistyöttömyys 821
+kehitysvammaisuus 821
+uuden musiikin kilpailu 820
+valaisimet 819
+itämerensuomalaiset kansat 819
+turvetuotanto 819
+audiovisuaalinen media 818
+onnettomuustutkinta 818
+hedelmät 818
+ford rally 818
+logistiikka 817
+aino-kaisa saarinen 817
+autolautat 815
+luottoluokitukset 815
+pittsburgh 814
+hiustenhoito 813
+philadelphia flyers 813
+ilmanvaihto 812
+uudisrakentaminen 812
+jyrsijät 812
+europarlamentaarikot 812
+polttoaineiden vähittäiskauppa 812
+poliisipäälliköt 812
+elokuvateatterit & elokuvien esittäminen 812
+pilvet 812
+suomenlahti 812
+yhdysvaltain avoin tennisturnaus 811
+materiaalitekniikka 811
+budjetointi 811
+liiketappio 811
+työtehtävät 810
+kaatopaikat 810
+kriisipalvelut 809
+brexit 809
+kaupungintalot 808
+piha-alue 808
+kansallispäivät 808
+musikaalit 807
+peruspalvelut 807
+ihmisen muistijärjestelmä 806
+musiikkiteollisuus 806
+hautausmaat 806
+pekka haavisto 806
+turun palloseura (jalkapallo) 805
+mielenosoituslakot 805
+toimistorakennukset 804
+eläinten kuolema 804
+vaasan palloseura 804
+valkeakoski 804
+valaistus 803
+eläinlääkärit 803
+eteläinen suurpiiri (helsinki) 803
+kalifornia 803
+kitee 803
+sébastien loeb 803
+merinisäkkäät 802
+sydän 802
+sairaalapalvelut 802
+museovirasto 802
+viitasaari 801
+paneelikeskustelut 801
+lemi 800
+rafael nadal 800
+liikennettä palveleva toiminta 799
+liikenteen ohjausmerkit 798
+europarlamenttivaalit 798
+kotikasvatus 798
+vesikatkos 798
+st. louis blues 798
+ranskan politiikka 798
+taipalsaari 797
+roger federer 797
+antti ruuskanen 797
+jalkapallon em 2016 797
+ympäristönhoito 796
+koulurakennukset 796
+halpalentoyhtiö 795
+google 795
+sosiaaliliberaalit puolueet 795
+merivartiostot 795
+kaupunkikuva (maisema) 794
+kataja basket club 794
+korut ja jalokivet 793
+huittinen 793
+montreal canadiens 793
+kansallissosialismi 793
+haaparannan kunta 792
+vihannekset 792
+los angeles kings 792
+laulukilpailut 792
+fifan jalkapallon mm 2018 792
+toinen maailmansota 791
+hip hop & rap 791
+eläinsuojelu 791
+yle tv2 790
+sami jauhojärvi 790
+sttk 789
+playoffs 2012 789
+seminaarit 788
+matti heikkinen 788
+turvallisuushenkilöstö 787
+pyhä sota 787
+oulun yliopisto 787
+torikauppa 787
+columbus blue jackets 786
+diktatuurit 785
+viinat 785
+ifk mariehamn 785
+varainhankinta 784
+indonesia 784
+rääkkylä 784
+rakennuspuutavara 783
+merialueet 783
+lastenneuvolat 782
+lempäälä 782
+kaustinen 782
+aamukooste 782
+haaparanta 781
+avio- ja avoero 780
+alppien talviurheilukeskukset 780
+kipu 780
+eduskunnan puhemiehet 780
+timanttiliiga 780
+rockfestivaali 780
+haja-asutusalueet 779
+ylioppilaat 779
+ruisrock 778
+linnan juhlat 776
+toivo 775
+saksan kristillisdemokraattinen unioni (cdu) 775
+seiväshyppy 775
+borussia dortmund 775
+buffalo sabres 775
+jazz 774
+vakka-suomen seutukunta 774
+meksiko 774
+ulkomaanmatkailu 773
+helsingin käräjäoikeus 772
+rakennuselementit 772
+suurituloiset 771
+tokio 771
+jääkiekon mestarien liiga 771
+asutuskeskusten henkilöliikenne 771
+wrc-rallitallit 771
+energiansäästö 770
+eteläinen afrikka 769
+microsoft 769
+kulutusluotto 769
+voimistelu 769
+jouluperinteet 769
+erkki tuomioja 769
+kauppakamarit 769
+puoluejohtajat 769
+washington capitals 768
+laboratoriot 768
+qatar 768
+maa 767
+ahvenanmaa 767
+kiinteistövero 767
+osuuskunnat 766
+ontario 766
+raitioliikenne 766
+palkankorotus 766
+syyteharkinta 766
+perusterveydenhuolto 765
+perinteinen hiihtotapa 765
+kyselytutkimus 765
+kehitysyhteistyö 765
+kakkonen (jalkapallo) 764
+tiede ja tekniikka 764
+suomen museot 764
+tilauskanta 763
+uusi-seelanti 763
+citroën rally 763
+etelä-pirkanmaan seutukunta 763
+lahjat 762
+kymen lääni 762
+isännöinti 761
+puolanka 761
+tie- ja katumerkinnät 760
+hillary clinton 760
+säveltäminen 759
+henkilötyövuosi 759
+perinnöllisyystiede 759
+liikkuva poliisi 758
+tunisia 757
+lumilaudat 757
+loimaan seutukunta 757
+runoilijat 756
+pekka rinne 756
+carolina hurricanes 756
+kansatiede 756
+levi 756
+vuosijuhlat 755
+luottotiedot 755
+hattula 755
+lapsuus 754
+leipä 753
+asikkala 753
+sotilaslentokoneet 753
+taloustutkimus 752
+kokemäki 751
+bruttokansantuote 751
+venezuela 751
+pihtipudas 751
+laillisuusvalvonta 751
+laskettelu 750
+republikaaniset puolueet 749
+planeettakunta 749
+1960-luku 749
+metsäpalot 749
+huonekaluliikkeet 748
+polvijärvi 748
+op 748
+eura 747
+marjanpoiminta 747
+maa- ja metsätaloustuottajain keskusliitto (mtk) 746
+hampaat 746
+navetat 746
+posio 746
+rahoitusala 746
+talousvesi 745
+koneteollisuus 745
+verovirkailijat 744
+wales 744
+sponsorointi 744
+upm 743
+yle blogit 743
+chile 743
+tekninen palvelu 743
+valtiomuodot 743
+muurame 742
+norrbottenin lääni 742
+eläintiede 742
+kemijoki 742
+keuruun seutukunta 741
+teknillinen korkeakoulu 740
+monaco 740
+agraaripuolueet 740
+inflaatio 740
+asiakassuhde 739
+osa-aikatyö 738
+juutalaisuus 737
+ennaltaehkäisevä terveydenhuolto 737
+nivala–haapajärven seutukunta 737
+kansantalous 736
+kavallus 736
+lotus cars 736
+urheilutoimittajat 734
+länsimaat 734
+tekstiili- ja vaatetusteollisuus 733
+talon lämmitys 733
+miljonäärit 733
+saamenmaa 733
+naisuimarit 732
+komedia (kirjallisuus) 732
+helsingin seudun liikenne 732
+lounais-pirkanmaan seutukunta 731
+al-qaida 731
+liike-elämän yhteistyö 731
+colorado avalanche 731
+maailman terveysjärjestö 731
+erityisliikunta 731
+suora vapaapotku 731
+kosteusmittaukset 730
+taliban 730
+aalto-yliopisto 730
+juuka 730
+naisten lentopallo 729
+kaivot 728
+silmät 728
+valokuvausvälineet 728
+tiedotteet 728
+maksuliikenne 728
+rautatieasemat 728
+viljavalmisteet 727
+kauneus 727
+henkilörekisterit 727
+aurinko 727
+sosiaalinen sorto 727
+kanslerit 726
+ilmatila 726
+naisten superpesis 726
+lama 725
+kiinteistönvälitys 725
+mikko ilonen 724
+seinät (runkorakenteet) 724
+pieksämäen seutukunta 724
+tuulipuistot 724
+louhinta 724
+omistusasunnot 723
+ateena 723
+liike-elämä 723
+levät 722
+posti group oyj 721
+tee se itse 720
+keittiöt 720
+mäntyharju 720
+ilmajoki 720
+pohjola pankki 719
+tuukka rask 719
+kankaanpää 719
+kurinpito 719
+lypsykarjatilat 719
+nastola 718
+valvira 717
+suojatiet 717
+valencia (itsehallintoalue) 717
+lounaisalue (usa) 717
+volkswagen group 716
+älykäs energia 715
+junaliikennehäiriöt 715
+itä-uudenmaan maakunta (hist.) 715
+pitkäaikaishoito 714
+suomeen matkustaminen 714
+kulta 714
+chicago bulls 714
+huoneet 713
+itsemurha 713
+oulunkaaren seutukunta 712
+keski-amerikka 712
+minsk 712
+kerttu niskanen 711
+opetussairaalat 710
+detroit 710
+petos 710
+keskinen afrikka 710
+paikallislehdet 710
+yritysomistus 709
+mclaren automotive 709
+yksinäisyys 708
+meijeriteollisuus 708
+kuolemansyyt 707
+saksan politiikka 706
+yritystoiminnassa käytettävät laivat 706
+sydäntaudit 705
+hammashuolto 705
+keskustelupalstat 705
+helsingin ja uudenmaan sairaanhoitopiiri 704
+suomalaiset televisiojuontajat 703
+novellit 703
+luisteluhiihto 703
+english football league 702
+robotit 701
+kotouttaminen 701
+suonenjoki 700
+sotilastukikohdat 700
+immunisaatio 700
+teiden, katujen, lentokenttien ja urheilualueiden rakentaminen 700
+lähiöt 699
+työturvallisuus 699
+kemikaalit 698
+napa-alueet 698
+hälytysajoneuvot 698
+saksalaiset poliitikot 698
+kuvat 698
+ratsia 698
+terveysviranomaiset 697
+luonnonsuojelualueet 697
+twitter inc. 697
+keski-ikä 697
+yritysten määrä 697
+tietoliikenne ja elektroniikka (pörssilista) 697
+mansikka 697
+eläinten oikeudet 696
+eläinsuojat 696
+falunin kunta 696
+britannian poliitikot 695
+paini 695
+kiinteät kalusteet 695
+kiinteistöala 695
+libanon 695
+säkylä 695
+ylävartalo 695
+amerikkalainen jalkapallo 694
+laajakaista 694
+2010-luku 694
+nähtävyydet 694
+ukrainan politiikka 694
+jan vapaavuori 693
+armeijayksiköt 692
+kapellimestarit 692
+korvat 691
+ulvila 691
+hyökyaallot 690
+elektroniikkalaitteet 690
+junien myöhästely 690
+paltamo 690
+bitumi 690
+internet-yhteys 689
+tukkukauppa 689
+new york (osavaltio) 689
+eläinlääketiede 689
+zürich (kaupunki) 689
+työyhteisöt 689
+sotaveteraanit 689
+linja-autonkuljettajat 689
+rakennustekniikka 688
+ruokavaliot 687
+kypros 687
+puukauppa 687
+risteilyt 687
+lukeminen 687
+poliittinen päätöksenteko 687
+miesten ampumahiihto 686
+joulupukki 686
+hyrynsalmi 686
+asuntolaina 685
+pyöräliikenne 685
+kellot 684
+lumityöt 684
+paavo arhinmäki 684
+lastenhoito 684
+jääkiekon mm-kisat 2015 684
+rikostutkimus 683
+viisumit 683
+ilman epäpuhtaudet 682
+ohjelmistoyritykset 682
+itämerensuomalaiset kielet 682
+ac milan 681
+innovaatiot 681
+murrosikäiset 681
+matkatoimistot 681
+kulttuurihistoria 680
+toimistotyö 679
+hinnanalennus (alennus) 679
+motiivi (psykologia) 678
+viljelymenetelmät 678
+aleksandr barkov jr. 678
+rahapolitiikka 677
+alkometrit 677
+zlatan ibrahimović 677
+patsaat ja muistomerkit 677
+hylkeet 676
+kauhajoki 676
+edustusjoukkueet 675
+sok-konserni 675
+luottolaitokset 675
+kylmät yöt 675
+vastaanottokeskukset 675
+maisterit 674
+fernando alonso 674
+suomi 100 674
+verkkojulkaisut 673
+elokuvataide 673
+baarit 672
+tangot (tanssit) 672
+kuulovammat 671
+sienet 671
+olkiluodon ydinvoimalaitos 670
+kansalaisuus 670
+internetliittymä 670
+matematiikka 669
+leppävirta 669
+kurikka 669
+tampereen pyrintö 668
+hätämajoitus 668
+recep tayyip erdogan 668
+iho 667
+miesten salibandy 667
+istanbul 667
+lauri markkanen 667
+kasvava liikevaihto 666
+tv-uutiset 666
+karjatalous 666
+petteri koponen 666
+tornionjoki 666
+kilpailuasiat 665
+hakuohjelmat 665
+ruokasienet 665
+tietokirjallisuus 664
+keski-eurooppa 664
+pienet ja keskisuuret yritykset 664
+nico rosberg 664
+viinit 663
+sotkamon jymy 663
+kyläyhdistykset 662
+iskelmät 662
+urheilutilojen toiminta 662
+pelastusajoneuvot 661
+motogp 661
+tarinat ja ilmiöt 661
+perävaunut 660
+sydän- ja verisuonitaudit 659
+šiialaisuus 659
+sisä-savon seutukunta 659
+muuttolinnut 659
+urheiluun liittyvä toiminta 658
+metsätuhot 658
+elinkautinen vankeus 658
+aistivammaisuus 657
+vaalipäivä 657
+ajo-opetus 657
+sähköautot 656
+uskonnolliset yhteisöt 656
+salamat 656
+paikallishallinto 655
+suurpujottelu 655
+puoluejohto 654
+veri 654
+apple 654
+suot 654
+muovi ja keinotekoiset aineet 654
+karjalan tasavalta 653
+joutsa 653
+pyhäjärvi 653
+polvivamma 652
+keskustat 652
+matalapaine 652
+jamaika 652
+suojelupoliisi 651
+puutarhurit 650
+työtapaturmat 650
+tekniset johtajat 649
+kansainvälinen hiihtoliitto 649
+töölö 649
+talviloma 648
+vuorotyö 648
+formula 1 -kuljettajalegendat 647
+tytäryhtiöt 647
+konfliktit 647
+portaat 647
+financial planner 646
+pyhtää 646
+lammas 645
+isoäidit 645
+luottamushenkilöt 645
+soittimet 645
+mikko koivu 645
+asuntomessut 645
+tilapäismajoitus 645
+budjettiriihi 645
+humanistiset tieteet 644
+kuortane 644
+volkswagen 643
+yleiskaava 643
+eläkeikä 643
+komissaari 643
+radiokanavat 643
+teuvo teräväinen 642
+huumeiden kauppa ja salakuljetus 642
+sähkön ja lämmön yhteistuotanto 641
+naisten alppihiihto 641
+oleskeluluvat 641
+etiikka 641
+makeiset 640
+tutkimus- ja kehittämistoiminta 640
+kirkkohallitus 640
+pikaluistelu 640
+nilsiä 640
+yhdistyneiden kansakuntien pääsihteeri 639
+välimeren saaret 639
+itsemurhaiskut 639
+anne kyllönen 639
+bayer 04 leverkusen (miehet) 639
+sotaharjoitukset 639
+pudasjärvi 638
+isovanhemmat 638
+miesuimarit 638
+kharlamov division 637
+orivesi 636
+ulosmarssi 636
+verkkokauppa 636
+ajokielto 636
+arvonlisävero 635
+ääni (fysikaaliset ilmiöt) 634
+ortodoksisuus 634
+vaalitapa 634
+iltapäivälehdet 633
+jussi jokinen 633
+konservatiivipuolue (britannia) 632
+prostituutio 632
+järjestelmien ja palveluiden ylläpito 632
+ilta-sanomat 632
+samaa sukupuolta olevien parisuhde 632
+ihmiskauppa 631
+folkmusiikki 631
+diagnoosi 631
+liikuntavälineet 630
+aivosairaudet 630
+rakennusasennus 630
+kööpenhamina 630
+urheiluhallinto 629
+opintojakso 629
+infektiotaudit 629
+tulisijat 628
+kiintiöt 628
+lasten ja nuorten kulttuuri 628
+asuntojen vuokraus 628
+sika 628
+kylpylät 628
+itku 627
+riista- ja kalatalouden tutkimuslaitos 627
+meri-pori, pori 627
+praha 626
+komentajat 626
+englannin kieli 626
+kannus 626
+järjestyshäiriöt 625
+vuokralaiset 625
+sirkus 625
+rakennemuutos 625
+hiippakunnat 624
+veikkaus 624
+huhut 624
+musiikkitalo 624
+saamelaiskäräjät 624
+euroopan pankkiviranomainen 623
+suomalaiset elokuvaohjaajat 622
+projektityö 622
+työharjoittelu 622
+tuonti 622
+jälkiruoat 622
+paavit 622
+jari litmanen 621
+honshū 621
+ydinonnettomuudet 621
+tanssijat 620
+vaalikausi 620
+epämetallit 619
+energiamineraalien kaivu 619
+punkaharju 619
+kielikoulutus ja kieliopinnot 619
+nykymusiikki 619
+ilmailu 619
+mausteet 619
+loppiainen 618
+lapset (ikäryhmät) 618
+sosioekonomia 618
+karstula 618
+puhtaus ja peseytyminen 618
+turvapaikkahakemus 618
+lotto 617
+jännittäminen 617
+moukarinheitto 617
+maantiepyöräily 617
+maanrakennuskoneet (rakennuskoneet) 616
+tuomarit 616
+maaperägeologia 616
+urheilumedia 616
+konsertti- ja tapahtumajärjestäjä 615
+tarja halonen 615
+myllykosken pallo -47 615
+tutkinnot 615
+olli rehn 614
+infrarakentaminen 614
+noususuhdanne 614
+rauta ja teräs 613
+lapinlahti 612
+tohtorit 612
+kaupunkiluonto 612
+restaurointi 612
+yhdistyneet arabiemiirikunnat 611
+sul 611
+vertaistuki 611
+julkinen tieto 611
+työvoimakustannukset 611
+feminismi 611
+libialaiset poliitikot 611
+sähkönjakelu 610
+pyöräilykilpailut ja -tapahtumat 610
+kolari 610
+halpamatkailu 610
+itä-eurooppa 610
+säästäminen 610
+yksityinen sektori 610
+päävammat 610
+kansainvälinen talous 610
+european system of central banks 610
+usain bolt 610
+valtionvelka 610
+fbi 610
+joululahjat 610
+kiova 610
+persoonallisuus 609
+ranskan riviera 608
+pyrotekniikka 608
+elintarvikevalvonta 607
+samaa sukupuolta olevien avioliitto 607
+sarjamurhat 607
+kaakkoisalue (usa) 606
+jalasjärvi 606
+liberaalipuolueet 606
+teollisuusalueet 606
+myanmar/burma 606
+saarijärvi 606
+telia company 605
+käsikirjoittajat 605
+uruguay 605
+ff jaro 605
+kannattavuuslukemat 604
+irtisanoutuminen (henkilön aseman muuttaminen) 604
+nasa 604
+sotshi jääkiekko 604
+islamilaiset ekstremistiset järjestöt 603
+kaarina 603
+vesikasvit 602
+valkoinen talo 602
+venäjän pakotteet 602
+seurantalot 601
+leipomoteollisuus 600
+yle uutiset viittomakielellä 600
+läntinen konferenssi (khl) 600
+hallintojohtajat 600
+jään paksuus 599
+kemialliset aseet 599
+suomen verohallinto 599
+musiikkiohjelmat 599
+kerhot 599
+energiamarkkinat 598
+rautavaara 598
+pelastussuunnittelu 597
+pello 597
+virolaiset 597
+1950-luku 597
+hermoston taudit 597
+päijänne 597
+aurinkoenergia 597
+hollannin jalkapalloliiga 596
+kiinteistöjen välitys, isännöinti ja hoito 596
+kuoromusiikki 596
+hausjärvi 596
+lakialoitteet 596
+françois hollande 596
+näkö 596
+henri kontinen 595
+nautaeläimet 595
+diabetes 595
+näyttämö- ja konserttitoiminta 594
+geotieteet 594
+venäjän poliittiset puolueet 593
+kilpailukyky 593
+kuntosalit 592
+maaseutuyrittäjät 592
+puoluesihteerit 592
+suomen pankki 592
+laskettelurinteet 591
+putkirikko 591
+jääpallo 590
+urheilupurjehtijat 590
+lumettomuus 590
+hoitopaikat 590
+münchen 590
+sebastian aho 590
+naisten jääkiekko 589
+kulttuurin ja viihteen tukipalvelut 589
+lääkkeiden vähittäiskauppa 589
+terveysvaikutukset 588
+uudet yhtyeet 588
+alavartalo 588
+linnat 588
+valtakunnansovittelija 588
+tiedekeskukset 588
+vihreä politiikka 588
+venäjän kieli 587
+tuusula 587
+liikennevalot 587
+linnoitukset 587
+vieremä 586
+kempele 586
+pfk tsska moskova 585
+agence france-presse 585
+virtuaalitodellisuus 585
+vaalikoneet 585
+vesivoima 584
+maksukortit 584
+järjestyksenvalvojat 583
+rautatieonnettomuudet 583
+itäinen konferenssi (khl) 583
+kameravalvonta 583
+psykiatria 583
+venäjän valioliiga 582
+jäätiköt 582
+askartelu 582
+merseyside 582
+itsetunto 581
+alkuaineet 581
+verenkierto 581
+skiathlon 581
+pennsylvania 581
+terveellinen ruokavalio 580
+havupuut 580
+kotiseutuyhdistykset 580
+everton fc 579
+rakennuttaminen 579
+henna virkkunen 579
+sorsalinnut 579
+asusteet 578
+metsäkeskukset 578
+lannoitteet 577
+törkeä pahoinpitely 576
+leikkipuistot 576
+romanssit 576
+nordrhein-westfalen 576
+radion sinfoniaorkesteri 576
+pielavesi 576
+kesäteatterit 576
+ihmisen toiminnan ympäristövaikutukset 575
+henkilöstöravintolat 575
+urheilusukellus 575
+sosiaalityöntekijät 574
+päiväsakko 574
+brändit 574
+yle rovaniemi 574
+kodittomuus 574
+jesse puljujärvi 574
+juomateollisuus 573
+petäjävesi 573
+los angeles 572
+taiteelliset johtajat 572
+new jersey devils 572
+hankasalmi 572
+rahanarvo 572
+aluesuunnittelu 572
+palloilu 572
+hälytysjärjestelmät 571
+piispat 571
+perhe-etuudet 571
+elokuvafestivaalit 571
+yrityskaupat 571
+murehtiminen 571
+korkeakoulututkinnot 570
+verkkoliiketoiminta 570
+alkoholinkulutus 568
+esihistoria 568
+pohjois-irlanti 568
+aivotärähdys (aivovammat) 567
+konnevesi 567
+mixu paatelainen 567
+taruolennot 566
+haastattelut 566
+sivistystoimi 566
+yleisurheilun mm-kisat 566
+senaatit 565
+tunnustuspalkinnot 565
+aleppo 565
+lintujen ystävät 565
+raskaat työajoneuvot 565
+pirkkala 565
+esiintymislavat 565
+pyörätuolit 565
+loppi 565
+yhteisövero 564
+monikulttuurisuus 564
+winnipeg 564
+teollisuuskiinteistö 564
+www 563
+unihäiriöt 563
+lauri marjamäki 563
+verenvuotokuume 563
+draamasarjat 563
+eduskuntavaalit 2015 563
+britannian politiikka 561
+muu ilmaliikennettä palveleva toiminta 561
+motogp-ajajat 561
+tulosyksikön johtaja 561
+väärentäminen 561
+myyntitulos 561
+rauhanpolitiikka 561
+hifk fotboll 561
+kadonnut mies 560
+maakaasu 560
+luomuruoka 560
+chicago 560
+kuvanveisto 560
+wada 560
+jääkiekkoväkivalta 560
+paikannus- ja navigointiteknologia 560
+teollisuudessa käytettävien koneiden tukkukauppa 560
+suun terveyden edistäminen 559
+opasteet 559
+paula risikko 559
+julkiset puheet 559
+keittiömestarit 558
+hakkuut 558
+vapo (konserni) 558
+salpausselän kisat 558
+omat vahvuudet 558
+ruotsin politiikka 558
+pääomatulot 558
+janne ahonen 557
+liikenne- ja kuntaministeri 556
+lukijoiden kanssa syntynyttä 556
+hongkong 556
+yhdysvaltojen moottoriajoneuvoteollisuus 556
+rikoskirjallisuus 556
+liikelaitokset 555
+paloturvajärjestelmät 555
+meripelastus 555
+kuusi (mäntykasvit) 555
+todisteet 555
+krista kiuru 554
+hygienia 554
+pienituloiset 554
+vatsavaivat ja -sairaudet 553
+koulutusalat 553
+mari eder 553
+eliittikisat 553
+lapsen huolto 552
+david cameron 552
+asuntomurto 552
+automaatio 552
+amsterdam 551
+poliisiosastot 551
+donetsk 551
+damaskos 550
+tammela 550
+luxemburg 550
+kampanja-/vaalirahoitus 550
+sanoma media finland 550
+tapahtumamarkkinointi 549
+ihmissuhteet työpaikalla 549
+new york islanders 549
+rakennusvirastot 549
+koulukuljetus 549
+polttokaasut 548
+korvataudit 548
+savukoski 548
+öljyonnettomuudet 548
+juankoski 548
+pituushyppy 548
+rakennuspuusepäntuotteiden valmistus 548
+ilmastonsuojelu 548
+donetskin alue 548
+ivalo 547
+sinfoniaorkesterit 547
+energiankulutus 547
+suomalainen kansanmusiikki 547
+videopelit 547
+talouskuri 547
+abiturientit 547
+painijat 546
+raskaansarjan nyrkkeilijät 546
+kaivinkoneet 545
+sokerit 545
+ranskan ympäriajo 545
+sinfoniat 545
+kynttilät 545
+philadelphia 545
+tuki- ja liikuntaelimet 545
+ilmanpaine 545
+heinävesi 545
+onnellisuus 544
+virtaustekniikka 544
+tyynimeri 544
+norsk rikskringkasting 544
+murhayritykset 544
+yleiset talonrakennustyöt sekä maa- ja vesirakennustyöt 544
+hiihdon mm 2017 544
+lämmitys ja ilmanvaihto 543
+pelkosenniemi 543
+autojen korjaus 543
+tekijänoikeus 543
+tampa bay lightning 543
+sukupuolten tasa-arvo 543
+suoramyynti 543
+eläinten ruokinta 542
+mytologia 542
+kasvatus 542
+ruokatottumukset 541
+velkoja 541
+esteellisyys 541
+joukkuesprinttihiihto 541
+parainen 541
+lenkkeily 541
+puijo 541
+eläinten talvehtiminen 540
+fyysinen trauma 540
+sonkajärvi 540
+palvelualojen ammattiliitto (pam) 540
+peräpohjola 540
+radio-ohjelmat 540
+vuokrasopimukset 540
+valencia 540
+pilvisyys 540
+opiskelupaikan hakeminen 540
+työeläkkeet 540
+yleiset talonrakennustyöt 540
+tukes 539
+ähtäri 539
+paperittomat 539
+miesten lumilautailu 539
+estejuoksu 539
+vancouver (usa) 538
+lääkärintarkastukset 538
+klassisen musiikin säveltäjät 538
+teemu pukki 538
+viestintävälineet 538
+edustajainhuone 538
+leverkusen 538
+ruotsin jalkapallo 538
+syntymäpäivät 538
+mm-jääkiekko 2012 538
+kerava 537
+ympäristömyrkyt 537
+kuopion yliopistollinen sairaala 537
+oslon lääni 537
+pohjoismainen kirjallisuus 536
+kasvihuonekaasut 536
+republic of russia 536
+jokioinen 536
+passit 535
+keuhkot 534
+metsä group 534
+hinnat 534
+mahataudit 534
+televalvonta 534
+hiihtoseurat 534
+lastenohjelmat 534
+paikallisliikenne 534
+dna 533
+hammaslääkärit 533
+kari lehtonen 533
+sysmä 533
+viipuri 533
+singapore 533
+teknologiateollisuus 532
+alpit 532
+nälänhätä 532
+ebola 532
+tuuliturbiini 531
+halpalennot 531
+nuorisotyöttömyys 531
+mustikka 531
+kilpisjärvi 530
+avoin työpaikka 530
+sukupuolivähemmistöt 530
+suomen sisällissota  530
+kolmiloikka 530
+sosiometria 529
+pohjois-amerikan jalkapallo 529
+tuotetietous 529
+sortumisonnettomuudet 529
+ratamoottoripyöräilijät 529
+britannian kuninkaallinen perhe 529
+ohitukset 528
+yhtiökokoukset 528
+seksuaalinen identiteetti 528
+budjettikäsittely 528
+barcelona 528
+josé mourinho 528
+terroristiepäillyt 528
+yle lappeenranta 527
+videopeliteollisuus 526
+psykologit 526
+norppa 526
+valtimo 526
+jjk jyväskylä 526
+säteilyturvakeskus 526
+bosnia-hertsegovina 526
+vimpelin veto 526
+nenäpäivä 526
+raasepori 525
+työsuojelu 525
+taulutietokoneet 525
+marit bjørgen 525
+televisiosarjat 525
+mielenterveyshoito 524
+slopestyle 524
+lähiruoka 523
+eväät 523
+rikostorjunta 523
+nosto- ja siirtolaitteet 523
+liikuntakeskukset 523
+kuusankoski 523
+kunnianloukkaus 522
+leo komarov 522
+raha-automaattiyhdistys 521
+talousjohtajat 521
+chelsea, manhattan 521
+oluenvalmistus 521
+startup-yritys 520
+ostopalvelut 520
+sopimuksen irtisanominen 520
+tuotejohtaminen 520
+suuryritykset 520
+freestyle (hiihto) 520
+henkilöstö- ja laitosruokalat, ateriapalvelu 520
+viheraluerakentaminen 520
+omaishoito 519
+kosteikot 519
+kanalinnut 519
+rahanpesu 519
+väitöskirjat 518
+arizona coyotes 518
+yrityksen perustaminen (perustaminen (tiedollinen luonti), tiedollinen luonti) 518
+työkyky 518
+lihakset 518
+neymar 518
+koulukiusaaminen 518
+suomalaiset tv-kanavat 518
+justin bieber 517
+kivihiili 517
+tekninen kehitys 517
+putkat 517
+kirpputorit ja myyjäiset 517
+nfl 516
+matkailuyritykset 516
+as roma 516
+laiturit 516
+jalkavammat 516
+mclaren 516
+tuhoeläimet 516
+ekologia 515
+joroinen 515
+musiikkivideot 515
+rio de janeiro (osavaltio) 515
+hiihdon mm-kisat 2015 515
+ympäristöturvallisuus 514
+manchester 514
+eurokriisi 514
+ajokortitta ajaminen 513
+alioikeudet 513
+vatsa 513
+val di fiemme 513
+yhdysvaltain ulkoministeriö 513
+jääkiekon nuorten mm-kisat 513
+kodinkoneet 512
+parantuminen 512
+seurustelu 512
+matkatoimistot ja muu matkailua palveleva toiminta 512
+ruotsin poliittiset puolueet 512
+muotisuunnittelu 511
+wwf 511
+harjavalta 511
+valituslupa 511
+andy murray 511
+matkaviestinverkot 511
+sivistyslautakunta 510
+cia 510
+kullankaivu 510
+turvapaikkahakemuksen hylkääminen 510
+esityslistat 509
+toimeentulo 509
+puolustustarviketeollisuus 509
+kunnallisverotus 509
+kilpailuoikeus 508
+rahapula 508
+nykytaide 508
+metsänkasvatus 508
+jäteastiat 508
+raviradat 508
+kasvatustiede 508
+vaalikeskustelut 508
+makeat leivonnaiset 507
+viestintävirasto 507
+carl haglund 507
+milano 507
+newcastle united fc 507
+sveriges television 507
+tuomas sammelvuo 507
+valvontakamerat 507
+ruoka-apu 507
+kotipuutarhat 506
+andalusia 506
+uudet yritykset 506
+kiuruvesi 506
+oppiminen 506
+maakauppa 506
+oberstdorf 506
+kevätsää 506
+yleisurheilun mm 2015 506
+sudan 505
+salibandyn pelaaja 505
+sami vatanen 505
+distinction in sport 505
+boston 505
+ympäristöviranomaiset 505
+sergei lavrov 505
+elisa 504
+ammattiyhdistysjohtajat 504
+marokko 504
+apuvälineet 504
+viemäriverkot 504
+kokemäenjoki 504
+jääkiekon mm-kisat 2014 504
+jääkiekon mm-kisat 2016 504
+äidinkieli (oppiaineet) 503
+selkäkipu 503
+amfetamiini 503
+kuluttajatuotteiden turvallisuus 502
+sosialismi 502
+jumalanpalvelus 502
+jäänmurtajat 502
+mielentilatutkimus 501
+varastotilat 501
+kunnallistekniikka 501
+radikalisoituminen 500
+laiton rajanylitys 500
+jääkiekon mm-kisat 2013 500
+saksan ajoneuvomarkkinat 499
+kairo 499
+metallien jalostus 499
+ammukset 499
+alennusmyynti 499
+suuriruhtinaskunta 498
+ratsastajat 498
+allsvenskan 498
+julkisten ja hyvinvointialojen liitto (jhl) 498
+liike-elämän vaikuttajamiehet 497
+käsipallo 497
+naisten taitoluistelu 497
+rohkeus 497
+perheväkivalta 497
+elintarvikkeiden, juomien ja tupakan yleistukkukauppa 497
+prisma-kauppaketju 497
+massan, paperin ja kartongin valmistus 496
+ska pietari 496
+yle uutiset 496
+verenvuoto 496
+tieolosuhteet 496
+makeutusaineet 495
+innovatiivisuus 495
+sähkötekniikka 495
+etsintäkuulutukset 495
+hallituksen talouspolitiikka 495
+taimen 495
+verovelvollinen 494
+ulosteet 494
+joululoma 494
+talvisota 494
+jussi halla-aho 494
+ristijärvi 493
+merikarvia 493
+karhunmetsästys 492
+keksinnöt 492
+kim jong-un 492
+puumala 492
+kadonneiden henkilöiden etsinnät 492
+malmön kunta 491
+nuorisojärjestöt 491
+savon sanomat 491
+eritteet (ihmisen) 491
+punainen kortti (jalkapallo) 491
+vammalan lentopallo 491
+keskinen suurpiiri (helsinki) 491
+tampereen ilves (jalkapallo) 491
+norlanti 491
+peruspalveluministeri 490
+ensimmäinen luokka 490
+sähkö- ja hybridiajoneuvot 490
+insinööritoimistot 490
+vihapuhe 490
+rahtilaivat 490
+etyj 490
+lakkautetut jalkapallojoukkueet 490
+alko 489
+kenraalit 489
+kuhmoinen 488
+konsultointi 488
+vesiensuojelu 488
+ranskan sosialistinen puolue 488
+mobiilisovellus 488
+vapaauinti 487
+kirkkonummi 487
+hakametsä, tampere 487
+eurovaalit 2014 487
+merivesi 486
+terveydenhoitajat 486
+merirahtiliikenne 486
+tornit 486
+melonta 486
+tapaninpäivä 486
+teatterinjohtajat 485
+televisio-ohjelmien juontajat 485
+dosentti 484
+merenkulkuhenkilöstö 484
+sanat 484
+tuotetilaus 484
+sonera 484
+nobelin palkinnot 484
+vartijat ja vartiointiliikkeet & etsivä-, vartiointi- ja turvallisuuspalvelu 483
+suurjännitelinjat 483
+kuolemantuottamus 483
+kaukolämmön erillistuotanto ja jakelu 483
+alpress oy 483
+suomen olympiakomitea 483
+majoitusala 482
+keskilänsi 482
+pienet yritykset 482
+jalometallit 482
+ympäristöystävälliset ajoneuvot 482
+lapsen kuolema 482
+youtube 482
+neuvolat 481
+hevostallit 481
+taidegalleriat 480
+traktorit 480
+opetussuunnitelmat 480
+piano 480
+proagria 480
+kassavirta 480
+kreikan kriisi 480
+afc ajax 479
+pilkintä 479
+suoramarkkinointi 479
+taskutietokoneet 479
+varastointi 479
+haukipudas 479
+miami 478
+suomen historia 478
+kitara 478
+turvakamerat 478
+jussi niinistö 478
+west ham united fc 478
+detour 478
+terapia 477
+audio 477
+poikkeusluvat 477
+amerikkalainen roots-musiikki 477
+antti raanta 477
+ympäristörikokset 477
+loimaan korikonkarit 476
+koripallovalmentaja 476
+keitele 476
+metsästystarvikkeet 476
+lyhytelokuvat 476
+saimaannorppa 475
+ylikomisario 475
+hamas 475
+myyntimäärät 474
+therese johaug 474
+fysioterapia 473
+hätämerkit 473
+sodan uhrit 473
+pikaluistelijat 473
+keitot 473
+konserttisalit 473
+tekniset ongelmat 473
+suomen jääkiekkoliitto 472
+eläintaudit 472
+anssi koivuranta 472
+puhelinkeskukset 472
+miehikkälä 472
+kuume 472
+teksti-tv etelä-karjala 472
+hormonit 471
+liikennemerkit 471
+yökerhot 471
+opetusalan ammattijärjestö oaj 471
+kvartaalitalous 471
+pyeongchang 471
+rehut 471
+auto- ja kuljetusalan työntekijäliitto (akt) 471
+ralliradio 471
+ukrainalaiset poliitikot 471
+vesijohtovesi 470
+merja kyllönen 470
+ilves 469
+tangolaulukilpailut 469
+greenpeace 469
+luomutuotteet 468
+perhetyö (sosiaalityö) 468
+lentokoneteollisuus 468
+asepalvelus 468
+kassit ja laukut 468
+helsingin olympiastadion 468
+chernyshev division 467
+kertomakirjallisuus 467
+luis suárez 467
+kölnin hallintopiiri 467
+hirvien metsästys 467
+suomen ja ruotsin raja 467
+energiajuomat 467
+lounaat 467
+hollannin jalkapallo 466
+brysselin pääkaupunkialue 466
+rentoutus 466
+geenit 466
+ranskan poliittiset puolueet 466
+yle jyväskylä 466
+tuto hockey 465
+pohjois-norja 465
+unesco 465
+taloustutkimuslaitokset 465
+taalainmaan lääni 465
+ihmisen huono käytös 465
+terveystestit ja -tutkimukset 464
+pörssiyhtiöt 464
+stimulantit 464
+viha 464
+teksti-tv lappi 464
+senaatti-kiinteistöt 463
+myrkytykset 463
+alavus 463
+teollinen muotoilija 463
+ikaalinen 463
+onnettomuuksien ehkäisy 463
+leipominen 463
+rintauinti 462
+kustantaminen, painaminen ja tallenteiden jäljentäminen 462
+kellarit 462
+virvoitusjuomat 462
+terrorisminvastainen toiminta 462
+etiopia 462
+poikkeusolot 462
+selkä 462
+sianliha 462
+loviisa 462
+jääkiekon nuorten mm-kisat 2016 462
+kustantajat 461
+hakkerointi 461
+savon voima 461
+minnesota 461
+antillit 461
+jori lehterä 461
+varatoimitusjohtaja 461
+eläintenoikeusliikkeet 461
+veroparatiisit 461
+poliittinen eroprosessi 461
+liigacup 460
+palloseura kemi kings 460
+toyota motor 460
+iltalehti 460
+työkoneet 460
+lumilautailutarvikkeet 460
+työhyvinvointi 460
+kemia 459
+kansanopistot 459
+leirintäalueet 459
+tietosuoja 459
+liikunta 459
+osingot 458
+kalastusvälineet 458
+lihakarja 458
+ruissalo 458
+uurainen 458
+ottawa 457
+bangladesh 457
+erkka westerlund 457
+aliravitsemus 457
+aurajoki 457
+sadonkorjuu 457
+salametsästys 456
+suomalainen klassinen musiikki 456
+turun sanomat 456
+sotarikokset 456
+liikuntapalvelut 455
+tampereen yliopistollinen sairaala 455
+kallio 455
+äänisaaste 455
+oscar-palkinto 455
+osakkaat 455
+teksti-tv savo 455
+byrokratia 454
+talouslehdet 454
+yle uutisluokka 454
+egyptiläiset poliitikot 453
+keskiaika 453
+mot 453
+tietoverkot 452
+työterveyslaitos 452
+tieto- ja viestintätekniikka 452
+raisio 452
+provinssi 452
+työsulut 451
+alkoholi- ja muiden juomien vähittäiskauppa 451
+alkoholiriippuvuus 451
+vtt 451
+jordania 451
+hymy 451
+abortti 451
+kirkkovaltuustot 450
+sarjakuvataiteilijat 450
+pikku kakkonen 450
+maajoukkuekoripallo 450
+aleksandr ovetškin 449
+kiiminki 449
+muslimiveljeskunta 449
+ruotsin miesten jääkiekkomaajoukkue 449
+luovuus 449
+vapaaehtoinen pelastuspalvelu 449
+virkavelvollisuus 448
+skåne 448
+fasismi 448
+lgbt culture 448
+taloudelliset yhteistyösopimukset 448
+veneiden ja veneilytarvikkeiden vähittäiskauppa 448
+aamu- ja iltapäiväkerhot 448
+nuorisotalo 447
+ympäristöaktivismi 447
+taidenäyttelyt 447
+omena 447
+pga tour 447
+boikotti 447
+pakolaiskiintiö 447
+wc 446
+2010-luvun elokuva 446
+pelastushelikopterit 446
+kirkon jäsenyys 446
+huonekaluteollisuus 446
+talousarvioesitykset 446
+rion suomalaiset 446
+aikakauslehdet 445
+hankittu immuniteetti 445
+kouluväkivalta 445
+liikenteenohjaus 445
+pistiäiset 445
+vuokraus 445
+mänttä-vilppula 445
+azerbaidžan (maakunta) 444
+aserikokset 444
+syrjäseutu 444
+valtteri filppula 444
+pikaruoka 444
+kaivaukset 444
+toholampi 444
+sipoo 443
+urheiluopistot 443
+zoonoosi 443
+nakkila 443
+väestönsuojat 443
+liikenneturvallisuus 443
+yle kemi 443
+theresa may 443
+messujen ja kongressien järjestäminen 442
+jatkosota 442
+akaa 442
+fukushiman prefektuuri 442
+joulumyynti 442
+mikrobiologia 442
+happi 441
+fysiikka 441
+rakennuttajat 441
+yksityistäminen 441
+koirarodut 441
+taimitarha ja -viljelijä 441
+ukrainan asevoimat 441
+ktp-basket 440
+perheyritykset 440
+varapresidentit 440
+vapaaottelu 440
+kylmälaitteet 440
+budjetit 440
+turkin politiikka 439
+kajaanin edustushokki (hokki) 439
+perintätoimistot ja luottotietopalvelu 439
+vuosi- ja syntymäpäivät 439
+suomen luonnonsuojeluliitto 439
+ilmakehä 439
+punk 439
+urho kekkonen 439
+puunkorjuu 439
+metsästysrikos 438
+viittomakieli 438
+karvoitus 438
+vuokrat 438
+serena williams 438
+riitta-liisa roponen 438
+vanheneminen 438
+jari lindström 438
+suklaa 437
+katukulttuuri 437
+maailman päästöleikkaukset 437
+pallokerho-35 437
+e-urheilu 437
+suomen naisten jääkiekko 436
+motiivi (laki) 436
+sydäntautioppi 436
+karkotus 436
+antti niemi 436
+munat 436
+nurmijärvi 436
+lentopallon naisten mestaruusliiga 436
+korruptio 436
+padasjoki 436
+ylexpop 436
+jääkiekon mm 2017 436
+katutaide 435
+virkistyskalastus 435
+lehden toimitus 435
+detroit-ann arbor-flint 435
+junan aikataulu 434
+patsaat 434
+vaalikyselyt 434
+rooman maakunta 433
+lentokenttä (vantaan kaupunginosa) 433
+laulaja-lauluntekijät 433
+euroryhmä 433
+oikeus ja kehitys -puolue 433
+osayleiskaava 432
+sairaankuljetus 432
+mikko rantanen 432
+metsäntutkimuslaitos 432
+televisiokanavat ja -verkot 432
+lumen ja jään sulaminen 431
+wayne rooney 431
+nuortenhuolto 431
+afroamerikkalainen musiikki 431
+john kerry 431
+kansliapäälliköt 431
+ei-rautapitoiset metallit 431
+radio- ja tv-lähetysyhtiöt 431
+pacific states 430
+ostovoima 430
+nepal 430
+suomen urheilugaala 430
+bussimatkailu 430
+matkailuautot 430
+baletti 429
+konepajat 429
+sc classic (miesten salibandy) 429
+scifi 429
+työlainsäädäntö 429
+nikkeli 429
+kilpakävely 429
+perheongelmat 428
+petter northug 428
+fantasiakirjallisuus 428
+vieroitushoito (päihdehuolto) 428
+pankkivalvonta 428
+eläinlääkintä 427
+vahinkoasiapalvelut 427
+kazan 427
+urheiluministeri 427
+kotityö 427
+jvg 427
+moniottelut 427
+sami hyypiä 426
+jyri häkämies 426
+ilosaarirock 426
+romanit 426
+avioero 425
+direktiivit 425
+kimmo timonen 425
+psykiatrinen hoito 425
+kodin turvallisuus 425
+texas 425
+ohjelmansiirtopalvelut 425
+graffitit (teokset) 424
+perho 424
+pikaruokaravintolat 424
+turun yliopistollinen keskussairaala 424
+ounasvaara, rovaniemi 424
+baath 424
+elokuvatuotanto 424
+konepajateollisuus 424
+ajoneuvorekisterit 424
+traumat 423
+viulu 423
+ammattiliitto pro 423
+sähkönkulutus 423
+peurat 423
+työterveyshuolto 423
+poutasää 423
+oikeusasiamiehet 423
+ajovalot 422
+norsunluurannikko 422
+kimmo tiilikainen 422
+alma media 422
+pelaajayhdistykset 422
+kehitysmaat 422
+huumepoliisi 422
+lentoliikennehäiriöt 421
+aamulehti 421
+laitoshoito 421
+raskaan kaluston perävaunut 421
+liittovaltio 420
+paikallis-poliittiset järjestöt 420
+petolinnut 420
+yle teema 420
+taivalkoski 420
+luku- ja kirjoitustaito 420
+helsingin ydinkeskusta 420
+siltojen, tunnelien, sähkölinjojen ym. rakentaminen 420
+suomen naisten jääkiekkomaajoukkue 419
+vesien saastuminen 419
+apulanta 419
+paloturvallisuusvälineet 419
+bill clintonin perhe 419
+teksti-tv oulu 419
+kilparata 418
+muinaisjäännökset 418
+ruotsalaiset poliitikot 418
+kyyjärvi 418
+teksti-tv satakunta 418
+bahrain 417
+rikosoikeus 417
+avaruusteknologia ja puolustusteollisuus 417
+influenssarokotteet 417
+harjumaa 417
+kartanot 417
+sijaisvanhemmuus 417
+taiwan 417
+petri kontiola 417
+luontokuvaus 417
+suomalaiset tv-ohjelmat 416
+sieppausten uhrit 416
+nooralotta neziri 416
+hissit 416
+dieselöljy 416
+pähkinät ja siemenet (ruoanlaitto) 416
+ruoan hinnat 416
+viharikokset 416
+paluumuutto 416
+yle maailmalla: bryssel 416
+sanoma 415
+rakennustarvikkeet ja -työkalut 415
+ottawa senators (-1934) 415
+akatemiat 415
+kosketinsoittimet 415
+vaateliikkeet 415
+fukushima i -voimalan ydinonnettomuudet 415
+tekoäly 415
+jukolan viesti 415
+ruotsin kuninkaalliset 415
+parturit ja kampaamot 414
+harmaa talous 414
+eu-tuet 414
+paalupaikka 414
+vartijat 413
+alkoholilainsäädäntö 413
+jämijärvi 413
+verkkopankit 413
+laivanrakennus 413
+makkarat 413
+abu dhabi 413
+hallinto 412
+turvatekniikka 412
+sveanmaa 412
+isac elliot 412
+nuorisopolitiikka 411
+uudet autot 411
+seinäjoen peliveljet (miesten salibandy) 411
+opetushallitus 411
+lehtipuut 411
+internetmedia 411
+zürich (kantoni) 411
+maaperän ja vesistöjen kunnostus 410
+saksan poliittiset puolueet 410
+tapaturmainen kuolema 410
+ympäristöhaitat 410
+innsbruck 410
+natsi-saksa 409
+ylityö 409
+väestöennusteet 409
+koulutusohjelmat 409
+sopimuksen peruminen 409
+venäjän historia 409
+sinkut 408
+heidi hautala 408
+keski-euroopan mäkiviikko 408
+tehy 408
+sisäelimet 408
+anne berner 408
+öljyn ja kaasun jalostus ja myynti 407
+rantasalmi 407
+olli määttä 407
+k-citymarket 407
+yksityinen terveydenhuolto 407
+sunderland afc 406
+sesongit 406
+helsingin pörssi 406
+vedenkulutus 406
+hornet-hävittäjät 406
+kouluruoka 406
+teksti-tv lahti 406
+markkinaoikeus 405
+algeria 405
+rinnat 405
+puhelinpalvelut 405
+digita 405
+luistinradat 404
+garmisch-partenkirchen 404
+oikeuskanslerit 404
+syyttäjät 404
+saku koivu 404
+eräretkeily 404
+naisten koripallo 404
+juhlaparaati 404
+veteli 404
+ilmastokokoukset 404
+teksti-tv pohjanmaa 404
+häpeä 403
+sotilaallinen johtajuus 403
+vallankumoukset 403
+perintö- ja lahjaverolaki 403
+juustot 403
+suomalais-ugrilaiset kielet 403
+antiikki 403
+hylyt 403
+yhtiöittäminen 402
+lammi, hämeenlinna 402
+omistajaohjaus 402
+turvallisuustuotteet 402
+kyynelkaasu 402
+veteraaniurheilu 402
+joulukuuset 402
+siikajoki 402
+lennonjohto 402
+henkilökohtainen kriisi 401
+kellaribändit 401
+länsi-götanmaan lääni 401
+matelijat 401
+kynnykset 401
+kaj kunnas 401
+lentomatkailu 401
+uima-altaat 401
+kreikan politiikka 401
+tosi-tv 400
+konglomeraatti 400
+kotietsintä 400
+hervanta 400
+metsätaloutta palveleva toiminta 400
+naudanliha 399
+aftonbladet 399
+mika kallio 399
+ammattilaisnyrkkeily 399
+maanvyörymät 399
+isoisät 399
+veronalennukset 398
+arvosanat 398
+astiastot 398
+risto dufva 398
+tuomiokirkot 398
+vatikaani 398
+tukiasunnot 398
+rovio entertainment 397
+maailmankatsomus 397
+kamarimusiikki 397
+valtionhallinnon päätöksentekijät 397
+ilmastointilaitteet 397
+telakat 397
+turunmaan seutukunta 397
+hartola 397
+päättäjäiset 397
+poliisiajoneuvot 397
+yle helsinki 397
+mari kiviniemi 397
+kello- ja kultasepänliikkeet 396
+asumiskulut 396
+suomen yrittäjät 396
+sähkön hinta 396
+ii 396
+lapinkylä 396
+euroalueen talous 396
+moskeijat 396
+emmanuel macron 396
+kielitiede 395
+kouluhallinto 395
+kosovo 395
+juhamatti aaltonen 394
+osuusliikkeet 394
+kilpailu- ja kuluttajavirasto 394
+jerusalem 394
+ulkorakennukset 394
+magia (uskonnolliset ilmiöt) 394
+polttoaineiden hinnat 394
+grillit 394
+ajoneuvoverotus 394
+oulunsalo 394
+syntyvyys 394
+siika 394
+egyptin politiikka 393
+pankkiautomaatit 393
+tikkakoski 393
+mehiläiset 393
+kulttuuriperintö 393
+länsimetro 393
+punkit 393
+luusto 392
+ateriapalvelu 392
+suuttuminen 392
+muhos 392
+par 391
+mannerheimin lastensuojeluliitto 391
+varkaus (rikos) 391
+kallavesi 391
+urheiluruutu 391
+rautalampi 391
+huostaanotto 391
+pori jazz 391
+kansalaisoikeudet 391
+talouspakotteet 391
+oikeustiede 390
+ville nousiainen 390
+ville peltonen 390
+kerhotilat 390
+sanni grahn-laasonen 390
+biojätteet 390
+hautapaikat 389
+kärkölä 389
+paimio 389
+koomikot 389
+valkeala 389
+stx corporation 388
+hakkerit 388
+henkikirjoituspaikka 388
+hatut 388
+espn 388
+astma 388
+propaganda 388
+bobrov division 388
+scottish football league 388
+eurooppaoikeus 388
+unicef 388
+siperia 387
+mauri pekkarinen 387
+henkilöstömenot 387
+kidutus 387
+new jersey 387
+taistelupanssarivaunu 387
+puoluehallitus 387
+teurastus ja lihan säilyvyyskäsittely 387
+teksti-tv keski-suomi 387
+teollisuuden voima oyj (tvo) 386
+tulivuoret 386
+lompakot 386
+elektroniikka 386
+eero heinäluoma 386
+fa cup 386
+ikea 386
+ikärajat 386
+laihia 386
+työilmapiiri 386
+jouluruoka 386
+katsastus 386
+terveydentila 385
+kosteat tilat 385
+williams sisters 385
+kulujen minimointistrategia 385
+kannonkoski 385
+karri rämö 385
+verensokeri 385
+myyntipäälliköt 385
+anna-maja henriksson 385
+turbiinit 384
+pimeä työ 384
+projektirahoitus 384
+lautat 384
+tehosteet 384
+lappi (rauma) 384
+liikuntaharrastus 384
+haukat 384
+musiikkioppilaitokset 383
+uusnatsismi 383
+luoteis-pirkanmaan seutukunta 383
+vesipelastus 383
+professional golfers' association 383
+ohjauskorko 383
+ylex aamu 383
+supermarjat 383
+yleisurheilun mm 2017 383
+historialliset ihmiset 382
+fc haka 382
+opiskelija-asunnot 382
+ylitornio 382
+myyntihenkilökunta 382
+japanilaiset kamppailulajit 382
+saara aalto 382
+siirtonurmikot 382
+sasu salin 382
+koulutytöt 381
+koillis-englanti 381
+sähkömarkkinat 381
+käyttäytymishäiriöt 381
+kotihoidon tuki 381
+asuintontit 381
+hollywood 381
+indie rock 381
+biokaasu 381
+expressen 381
+kirjallisuuspalkinnot 381
+öljyn hinta 381
+maahanmuuttopolitiikka 381
+housut 381
+merenkurkku 380
+joonas donskoi 380
+seafood 380
+yrittäjäjärjestöt 380
+hiihtovalmentajat 380
+liikennekasvatus 380
+vammaispalvelut 380
+antti tuisku 380
+tavat 379
+portaalit (verkkopalvelut) 379
+kotkat (petolinnut) 379
+akustiikka (erikoisala) 379
+wien 379
+korkeushyppy 379
+ruokakesko 379
+jean-claude juncker 379
+makeat välipalat 378
+avaruusliikenne 378
+taideyliopiston sibelius-akatemia 378
+vaajakoski, jyväskylä 378
+matkapuhelinliittymä 378
+sotahistoria 378
+amnesty international 378
+kaavoitusasiakirjat 377
+european commissioner for economic and monetary affairs and the euro 377
+fia 377
+oikeudenkäyntikulut 377
+oppipojat 377
+työvoimapula 377
+viihdeohjelmat 377
+turvakodit 377
+niklas moisander 377
+teksti-tv tampere 377
+aistimet 376
+pakkausteollisuus 376
+ei-tappava ase 376
+yhdistyneiden kansakuntien pakolaisjärjestö 376
+sukellusveneet 376
+kiväärit 376
+washington (osavaltio) 375
+vuoden urheilija (usa) 375
+perhesuunnittelu 375
+vaihtoehtoinen elämäntapa 375
+takaa-ajo 375
+alvar aalto 375
+humppila 375
+pääkonttori 375
+euroopan komission puheenjohtaja 375
+venäjämielisyys 375
+jenna laukkanen 374
+kulttuuriala 374
+yhdyskuntarakenne 374
+järvenpää 374
+jouluaatto 374
+ruokamyrkytys 374
+venäjän jalkapallo 374
+koti 374
+korpilahti 374
+kauppasumma 373
+työsopimukset 373
+riistan- ja kalantutkimus 373
+mika poutala 373
+juho hänninen 373
+soutu 373
+jaromír jágr 373
+opetustilat 373
+ruokakriisi 373
+linja-autoasemat 373
+kysymykset 373
+teksti-tv turku 373
+tanja poutiainen 372
+energiahinnat 372
+autopalo 372
+luottokortit 372
+syöpähoidot 372
+salibandyseura viikingit 372
+hosni mubarak 372
+taidekasvatus 372
+mobiilipelit 371
+benjamin netanjahu 371
+avangard omsk 371
+mtv3 371
+paavo lipponen 371
+yle kuopio 371
+rakennusten sähköjärjestelmät 370
+potilasasiakirjat 370
+pormestarit 370
+leppävaara 370
+ssc napoli 370
+kylvö 370
+sampo-konserni 370
+tulevaisuus 370
+projektihallinto 369
+jalkakäytävät 369
+siipikarja 369
+digitalisointi 369
+beach volley 369
+jari aarnio 369
+viktor janukovytš 369
+huumeiden käyttäjät 368
+metso 368
+ilkka kanerva 368
+ilmastointiasennus 368
+yhteiskunnalliset rajoitukset 368
+virkistysalueet 368
+aukioloajat 368
+tulivuorenpurkaukset 367
+tekstiiliteollisuus 367
+merikapteenit 367
+linja-auto-onnettomuudet 367
+levy-yhtiöt 367
+auton turvavarusteet 367
+lemminkäinen 367
+bagdad 367
+venäjän aluepiirit 367
+erik haula 367
+palovammat 366
+atlantin valtameri 366
+yölämpötila 366
+shanghai 366
+wikileaks 366
+tutkimusjohtaja 366
+keskustelu 366
+aasian matkailu 366
+boko haram 366
+budapest 366
+toivakka 365
+super-g 365
+jarkko immonen 365
+paperituotteet 365
+vapaakauppa 365
+kuu 365
+työkoirat 365
+painonnosto 365
+populaarimusiikki 365
+merivoimien alukset 365
+j. k. rowling 365
+kriisirahasto 365
+pizzat 364
+pakolaisleirit 364
+ohjauspyörä 364
+kuulantyöntö 364
+teksti-tv perämeri 364
+vaalikampanjat 363
+joutsan seutukunta 363
+valencia cf 363
+lääkemääräykset 363
+sensuuri 363
+nettitelevisio 363
+henrik dettmann 363
+venäjän oppositioryhmät 362
+siirtotyöläiset 362
+webbisurffaus 362
+keskituloiset 362
+pojat (ikäryhmät) 362
+dementia 362
+ulkovalaistus 361
+valaisinpylväät 361
+stx offshore & shipbuilding 361
+leningradin alue 361
+petter solberg 361
+kustannusetu 361
+akuuttilääketiede 361
+hydrauliikka 361
+lari lehtonen 361
+aselaki & aseenkantolupa 361
+edustus 361
+villieläimet 361
+hyvinkään tahko 361
+porkkanat 360
+työnseisaukset 360
+lähikaupat 360
+kosmeettiset tuotteet 360
+murhatapaukset 360
+ulvilan surma 360
+pikkujoulu 360
+ultimate fighting championship 360
+yksityisyys 360
+heikki kovalainen 360
+teksti-tv pohjois-karjala 360
+rauhanaate 359
+vihti 359
+suvaitsevaisuus 359
+kansainvälinen jääkiekkoliitto 359
+northern division (lentopallo) 359
+sampo terho 359
+pälkäne 359
+golfkentät 359
+lebron james 359
+judo 359
+seurakuntatalot 358
+yhdysvaltain maavoimat 358
+kupittaa 358
+opintotuki 358
+henkinen pääoma 358
+ylioppilastehtävät 358
+itsevarmuus 358
+taide- ja kulttuurikoulutus ja -tutkimus 358
+luvia 358
+williamsf1 358
+the guardian 358
+mobiilipelien kehittäjät 357
+alusvaatteet 357
+suomalainen muotisuunnittelu 357
+paranormaalit ilmiöt 357
+koillinen alue 357
+rakennusasiakirjat 357
+melbourne 357
+autopommit 357
+koivu 357
+arkkipiispat 357
+turvallisuusmääräykset 357
+tieliikenteen tavarankuljetus ja muuttokuljetus 357
+tampereen keskinen suuralue 356
+kunnan työntekijät 356
+synteettiset huumeet 356
+kensington and chelsea 356
+potilasturvallisuus 356
+koreografit 356
+pääsykokeet 356
+rakennussuunnittelu 356
+teksti-tv helsinki 356
+teksti-tv etelä-savo 356
+henkilöstöpäälliköt 355
+savunpoistojärjestelmät 355
+aivovauriot 355
+betoniteollisuus 355
+kari jalonen 355
+uraani 354
+kuraattorit 354
+suomen lähikauppa (tradeka oy) 354
+dmitri medvedev 354
+frankfurt am main 354
+oppisopimukset 354
+alphabet inc. 354
+onnettomuudet heikoilla jäillä 354
+tangokuninkaalliset 354
+etu-töölö 354
+southampton fc 354
+altia 354
+sininen tulevaisuus 354
+naisten korisliiga 354
+yritysetiikka 353
+asuntojen hinnat 353
+kauppa-alukset 353
+göteborgin kunta 353
+tulkit (ammatit) 353
+voimailu 353
+aikakauslehtien ja sanomalehtien kustantaminen 353
+geneve (kantoni) 353
+götanmaa 353
+poliisin suorittama ampuminen 353
+bakteerien aiheuttamat sairaudet 353
+tyne ja wear 352
+kissat 352
+ravintoainevalmisteet 352
+villi kortti 352
+dj:t ja tuottajat 352
+turkkilaiset poliitikot 352
+itä-suomen yliopisto 352
+palvelusetelit 351
+työvoiman vuokraus 351
+lakkautetut suomalaiset jääkiekkojoukkueet 351
+kouluterveydenhuolto 351
+onnettomuustutkintakeskus 351
+laajennettu itsemurha 351
+asenteet 351
+välimiesoikeus 351
+vapaaottelijat 351
+suomen valtioneuvosto 351
+angry birds 351
+töölönlahti, helsinki 351
+ruokakulttuuri 351
+multia 350
+silvio berlusconi 350
+jäätelö 350
+luunmurtumat 350
+eläinsuojelurikos 350
+moottoripyöräkerhot 350
+kalervo kummola 350
+huumeparonit ja -kartellit 350
+kruunupyy 350
+kunnianhimo 349
+kankaat 349
+lumi- ja jäärakentaminen 349
+raaseporin seutukunta 349
+säännöllinen linja-autoliikenne 349
+nosturit 349
+jumalolennot 349
+joensuun maila 349
+britannian poliittiset puolueet 348
+suur-tokio 348
+kuolleisuus 348
+ypäjä 348
+maalaistyylinen sisustus 348
+hyttyset 348
+liminka 348
+bangkok 348
+yleisurheilun mm 2013 348
+fulham fc 347
+neste oyj 347
+muikku 347
+kauppasopimukset 347
+teräs 347
+yhdysvaltain puolustusministeriö 347
+kadonnut nainen 347
+jarkko määttä 347
+pomarkku 347
+raskas liikenne 347
+pöllölinnut 346
+öljyvuodot 346
+yhteiskuntatieteet 346
+jätteiden lajittelu (lajittelu) 346
+bloggaajat 346
+celtic fc 346
+oecd 346
+pankki-, raha- ja lippuautomaatit 346
+kylpylähotellit 346
+tasavalta 345
+poliisikoirat 345
+matti vanhanen 345
+insinööritaito 345
+poliisiylijohtaja 345
+pyörätiet ja -kaistat 345
+jätteenpoltto 345
+maanvuokraus 345
+luhanka 345
+kranaatit 345
+urheilu-uutiset 345
+ympäristökeskukset 345
+pohjoinen jäämeri 345
+hannu lintu 345
+petro porošenko 345
+ville nieminen 344
+davis cup 344
+one direction 344
+kartanlukijat 344
+energiatehokkuus 344
+käteisnostot 344
+kätilöt 344
+autotallit 343
+stockmann 343
+edmonton 343
+dagens nyheter 343
+köyliö, säkylä 343
+pekingin olympialaiset 2008 343
+sukupuolitaudit 343
+kiekonheitto 343
+äitienpäivä 343
+opinnäytteet 342
+dubai 342
+dokumenttiohjaajat 342
+jollat 342
+100 metrin aitajuoksu 342
+nivala 342
+lapin matkailu 342
+pilaantunut maa 341
+vedenottamot 341
+rakennusvalvonta 341
+tilikausi 341
+tuomiokapitulit 341
+birdlife suomi 341
+anssi pentsinen 341
+dortmund 341
+nightwish 341
+radioaktiivinen saastuminen 341
+jazzfestivaalit 341
+rasmus ristolainen 341
+moottoriteknologia 340
+kartanpiirustus 340
+kehitysjohtaja 340
+ruoan alkuperä 340
+pikaluotto 340
+sosiaaliavustukset 340
+skandinaaviset kielet 340
+hurrikaani-loimaa 340
+talvirenkaat 340
+loukkaantumiset tulipalossa 339
+metropolialueet 339
+eläimen jalat 339
+yllästunturi 339
+andreas romar 339
+kauhajoen karhu (koripallo) 339
+lääkealan turvallisuus- ja kehittämiskeskus 339
+lauri asikainen 339
+vuokraoikeus 339
+lastinkäsittely ja varastointi 339
+happee (miesten salibandy) 339
+syyrian sisällissota 339
+hiilidioksidi 339
+venäjän asevoimat 339
+lumetus 339
+suomalainen keittiö 339
+kauniainen 339
+sepp blatter 339
+teksti-tv kainuu 339
+uhkasakko 338
+lääkintä 338
+teho-osastot 338
+verkkolehdet 338
+korkeapaine 338
+lillehammer 338
+östersundin kunta 338
+sunderland 337
+oikeuslääkärit 337
+ravintolatyöntekijät 337
+vieras kieli 337
+antologiat 337
+muutto 337
+lyhytloma 337
+suomen taidemuseot 337
+merilinnut 337
+blues 336
+nashville 336
+tuki- ja liikuntaelinten taudit 336
+rasva (ravintoaineet) 336
+arizona 336
+kouvolan pallonlyöjät 336
+ari mannio 336
+pakkanen 336
+tenniksenpelaajat 336
+teksti-tv keski-pohjanmaa 336
+sikainfluenssa 335
+jalkapallon alempien sarjatasojen joukkueita 335
+siikalatva 335
+revontulet 335
+pmmp 335
+sähköiset palvelut 334
+koli (talviurheilukeskus) 334
+kouvot 334
+toto 334
+ruoppaus 334
+miami heat 334
+aseellinen ryöstö 334
+kamerun 334
+telegraph agency of the soviet union 334
+alberta 333
+helsingin seudun yliopistollinen keskussairaala 333
+abstraktit objektit 333
+kirjakaupat 333
+ruovesi 333
+moto2 333
+kivijärvi 333
+ban ki-moon 332
+pankkikortit 332
+aivoinfarkti 332
+eduskunnan äänestys 332
+vitamiinit ja hivenaineet 332
+mittauslaitteet 332
+pyörätuolikelaus 332
+talon perustukset 332
+budjettileikkaukset 332
+autovarkaudet 332
+katoamisilmoitus 332
+tripoli 332
+albania 332
+siwa 331
+opettajankoulutus 331
+kesäsää 331
+makedonia 331
+oppimateriaali 331
+elinkeinorakenne 331
+elinkeinoelämän tutkimuslaitos (etla) 331
+grillaus 331
+pasila 331
+posti 330
+tuotemerkki 330
+monte carlo 330
+sevilla 330
+arpajaiset 330
+attika 330
+summittainen ammuskelu 330
+säiliöautot 330
+komediat 330
+karibianmeri 330
+eläinten ruoat 330
+juhlaperinne 330
+thierry neuville 330
+robert helenius 330
+ak bars kazan 329
+näköhäiriöt 329
+pankkipalvelut 329
+väsymys 329
+perunanviljely (peltoviljely) 329
+oulun yliopistollinen sairaala 329
+pekka virta 329
+sukupuoliyhdyntä 328
+viihdeteollisuus 328
+suorat tv-lähetykset 328
+perhelainsäädäntö 328
+lentokoulutus 328
+israelin puolustusvoimat 328
+kokaiini 327
+rakennustyöntekijät 326
+maataloustuotteet 326
+rakennusliitto (suomi) 326
+turkistarhaus 326
+poliittinen toimintakomitea 326
+poliittiset lahjoitukset 326
+kulkuneuvopalo 326
+erityisopetus 326
+viikko kuvina 326
+valtiosihteerit 326
+ecuador 326
+lapsenlapset 326
+las vegas 326
+lauri lyly 326
+hartwall areena 326
+teksti-tv kymenlaakso 326
+lady gaga 325
+viheriö (golf) 325
+ympäristövaikutusten arviointi (vaikutusten arviointi) 325
+sydäninfarkti 325
+pyörremyrskyt 325
+talousuutiset 325
+lapsisurma 325
+tōhokun alue 325
+elektroninen musiikki 325
+televisiopalvelut 325
+maajoukkuelentopallo 325
+em-yleisurheilu 2012 325
+kudonta 324
+kirjanpito 324
+tampereen teknillinen yliopisto 324
+kuvanveistäjät 324
+lomaraha 324
+terveyden- ja sairaanhoidon kustannukset 324
+purjelaivat 324
+puoluevaltuusto 323
+maaninka 323
+tiroli 323
+italian miesten jalkapallomaajoukkue 323
+kiinteistön opasteet 323
+ruoanvalmistusvälineet 323
+helsingin liikennelaitos 323
+keilailu 323
+as monaco fc 323
+ovien lukot ja salvat 323
+hiphop 322
+yksiö 322
+veneilytarvikkeet 322
+kielikurssit 322
+euroopan unionin talous 322
+mikael gabriel 322
+400 metrin aitajuoksu 322
+rakennuskustannukset 321
+tiedekunnat 321
+etelä-sudan 321
+tuomo ruutu 321
+kaavi 321
+politiikan tutkimus 321
+rakennus- ja ympäristötarkastus 321
+yksityisajoneuvo 321
+matkailukeskukset 321
+swansea city afc 320
+myyrät 320
+yle radio suomi 320
+kasvot 320
+maalaus (pintakäsittely) 320
+hard rock 320
+lotus f1 320
+aiesopimus 320
+uusi päivä (tv) 320
+ari-pekka liukkonen 320
+blockfest 320
+östersund 320
+sukat 319
+maarianhamina 319
+niklas bäckström 319
+joensuun kiekko 319
+taikominen 319
+ohjeet 319
+fosfori 319
+sosiaalipolitiikka 319
+uuden musiikin iltavuoro 319
+irtaimisto 319
+skotlannin jalkapallo 319
+metsäntutkimus 319
+kokkolan tiikerit 319
+nicolas sarkozy 319
+eläkevakuutus 319
+arsène wenger 319
+liputus 319
+resepti 318
+kielisoittimet 318
+junamatkailu 318
+musiikkiesitykset 318
+karri kivi 318
+vaala 318
+avaruusalukset 318
+sikatilat 318
+yhdistetyn maailmancup 318
+ylöjärvi 318
+carl gustaf emil mannerheim 318
+flow festival 318
+seinäjoen jalkapallokerho 318
+edward snowden 318
+koulupojat 317
+urbaani nykymusiikki 317
+dallas 317
+kivunhoito 317
+s-market 317
+olli jokinen 317
+martti jylhä 317
+kansalliset olympiakomiteat 317
+viestintähallinto 317
+kelirikko 317
+itsehallintoalueet 317
+terveys ja hyvinvointi 317
+ott tänak 317
+postinkantajat 316
+terrorisminvastainen sota 316
+siivoojat 316
+avaruus 316
+kana 316
+avioliittolaki 316
+polttoainepihit autot 316
+pysäköinninvalvonta 316
+jääkärit 316
+janne pesonen 316
+lontoo yleisurheilu 316
+obligaatiot 316
+tasoristeys 316
+miesten maastohiihtolegendat 316
+kaupunkiympäristö 316
+lauri ihalainen 315
+lohtaja 315
+lapin kansa 315
+kabul 315
+kunniamerkit 315
+franciscus 315
+asiamiehet 314
+elämänhallinta 314
+jalkapallokenttä 314
+japanin ajoneuvomarkkinat 314
+henkilötodistukset 314
+joel armia 314
+teollisuustontit 314
+jumala 314
+kim jong-il 314
+saaristomeri 314
+katupöly 313
+suomen kansallisooppera 313
+ville larinto 313
+aluepäällikkö 313
+laivaliikenne 313
+jäätyminen 312
+luennot 312
+antibiootit 312
+diakonit 312
+metallityöväen liitto 312
+soul 312
+vesitornit 312
+hiv 312
+pistohaavat 311
+takit 311
+rakennuksen sortuminen 311
+poliisipiiritys 311
+tampereen kaakkoinen suuralue 311
+kiinteä tietoverkko 311
+presidentinvaalit: kuntatulokset 311
+tunnelmavalaisimet 310
+tunis 310
+internet-uhkapelit 310
+urheiluvedonlyönti 310
+huumeriippuvuus 310
+huvilat 310
+kipulääkkeet 310
+saattohoito 310
+joukkovelkakirjat 310
+väestöliitto 310
+turun saaristo 310
+punkalaidun 310
+lastensuojeluilmoitukset 310
+välikysymyskeskustelu 310
+vesinäytteet 309
+maataloustuki 309
+liukkaat tiet 309
+pankkitilit 309
+tietotekniikkarikollisuus 309
+autovero 309
+simulointi 309
+montenegro 309
+liikenneratsia 309
+tomi hänninen 309
+tekes 309
+krista siegfrids 308
+aston villa fc 308
+kotirauhan rikkominen 308
+pielinen 308
+ristiina 308
+osakeanti 308
+mm-hiihdot 2013 308
+selostajat 308
+sevilla fc 308
+kai suikkanen 308
+potilaan oikeudet 308
+vakuutustyypit 308
+sidney crosby 308
+perusparannus 307
+asumisen rahoitus- ja kehittämiskeskus (ara) 307
+uganda 307
+raamattu 307
+postimerkit 307
+palestiinan poliittiset puolueet 307
+puutarhasuunnittelu 307
+sotilaalliset uhkakuvat 307
+karhula (kotka) 307
+ylioppilastutkinto 307
+mehiläinen oy 307
+robin van persie 306
+kyrönmaan seutukunta 306
+taka-töölö, helsinki 306
+valio 306
+kyselytunti (eduskunta) 306
+tuhohyönteiset 306
+colorado 305
+luterilaiset herätysliikkeet 305
+tyttöystävät 305
+kokopäivätyö 305
+vapaaehtoisjärjestöt 305
+alzheimerin tauti 305
+käsiaseet 305
+synnytyssairaalat 305
+elokuvapalkinnot 305
+yhteiskuntavastaisuus 305
+väestökirjat 305
+ulkopoliittinen instituutti 305
+äyriäiset 305
+kristiinankaupunki 305
+astronautit 305
+anniskelu 304
+nuorten työllisyys 304
+pekka koskela 304
+oppimiskyky 304
+vancouverin olympialaiset 2010 304
+kaura 304
+ruotsidemokraatit 304
+suomen käsipallo 304
+pakolaiskriisi 304
+matkapuhelinliittymän irtisanominen 303
+jätteenpolttolaitokset 303
+kriisikunnat 303
+leo-pekka tähti 303
+washington (dc) 303
+maailmanperintökohteet 303
+henrik lundqvist 303
+kalle palander 303
+eurooppa-neuvosto 303
+joutsenet 303
+kaupunkikulttuuri 303
+palokuolemat 302
+tahkovuori 302
+ystäväpiiri 302
+arvonimet 302
+ktp (jalkapallo) 302
+sähkökirjat 302
+salon viesti 302
+ahdistuneisuushäiriöt 302
+bratislava 302
+koulutusalan järjestöt 302
+tove jansson 302
+kirjurinluoto 302
+esa 302
+lampaanliha 302
+musiikkitapahtumat 302
+vihamielisyys 301
+diplomi-insinöörit 301
+löytöretket 301
+palkkatuki (tukilaji) 301
+kohderyhmät 301
+raksila, oulu 301
+kauppahallit 301
+kasvukeskukset 301
+surutyö 301
+polttoöljy 301
+suolisto 301
+juha metsola 300
+rangaistusmenettely 300
+veturit 300
+kilpailuviranomaiset 300
+vermo 300
+marttatoiminta 300
+kanslia 300
+mustasaari 300
+arkkitehtoniset saavutukset 300
+kuvittajat 300
+teemu rannikko 300
+urheilun kansainvälinen vetoomustuomioistuin cas 300
+kuntavaalit 2017: tulosraportit 300
+pikkulinnut 299
+marija šarapova 299
+eno 299
+manitoba 299
+wärtsilä 299
+arabiliitto 299
+enni rukajärvi 299
+paikallisradio 299
+mid-atlantic 299
+stefan wallin 299
+koripallon euroopan-mestaruuskilpailut 299
+ilmarinen 298
+kälviä, kokkola 298
+luokanopettajat 298
+kansanperinne 298
+anneli auer 298
+tajuttomuus 298
+stoke city fc 298
+vehicle emissions control 298
+southampton 298
+aamiaiset 298
+hämähäkkieläimet 298
+urjala 298
+uusi vaihtoehto 298
+poliisin työkalut 298
+juuse saros 298
+syyttömyys 298
+hjallis harkimo 298
+oravat 297
+turkin poliittiset puolueet 297
+vilpas vikings 297
+tehtaanjohtajat 297
+lestadiolaisuus 297
+ylex etusivu (radio) 297
+patentointi 297
+ghana 297
+turvatarkastukset 297
+sähkön tuotanto vesi- ja tuulivoimalla 297
+keskusteluohjelmat 297
+ledit 297
+juhlavaatteet 297
+lasse kukkonen 297
+haapajärvi 297
+keskimatkanjuoksu 297
+syriza 297
+paikallisjuna 296
+danske bank 296
+pelikonsolit ja konsolipelit 296
+yrtit 296
+stam1na 296
+myytit 296
+bischofshofen 296
+jeesus 296
+haittaohjelmat 296
+kaleva 296
+terveystarkastukset 296
+jäähdytyslaitteet 296
+daimler 296
+koltansaame 296
+kustannuslaskenta 295
+routa 295
+jyrki aho 295
+peru 295
+talon ullakko 295
+saariselkä 295
+elektroninen populaarimusiikki 295
+tietoturva-aukko 295
+identiteetti 295
+keitele (järvi) 295
+kuolinpesät 295
+ihmissalakuljetus 295
+wolf hunting 294
+työlainsäädäntörikkomus 294
+liikuntatoimi 294
+laitumet 294
+metallurg magnitogorsk 294
+natura 2000 294
+punainen 294
+kangas- ja vaatevärit 294
+suomi toisessa maailmansodassa 294
+avaruusluotaimet 294
+auton rikkoontuminen 294
+seksuaalinen häirintä 294
+major league soccer 293
+pelastusmääräykset 293
+elementtirakentaminen 293
+hiili 293
+satiiri 293
+tatuointi 293
+puutaloteollisuus 293
+rakennusoikeus 293
+kangasniemi 293
+venäjän talous 293
+finanssivalvonta (fiva) 293
+jämtlandin lääni 293
+amur habarovsk 292
+paidat 292
+state duma 292
+intian valtameri 292
+maksuvalmius 292
+lempinimet 292
+lehtorit (opettajat) 292
+lieto 292
+mauno koivisto 292
+geologian tutkimuskeskus 292
+oulujärvi 292
+keskusvaalilautakunta 292
+the new york times 291
+hampuri 291
+ostotarjous 291
+järviseudun seutukunta 291
+elastinen 291
+k90 291
+yleisurheilun suomi–ruotsi-maaottelu 291
+tennisturnaukset 291
+käsivarret 290
+kartellit 290
+ampumaradat 290
+syömishäiriöt 290
+rakennuseristeet 290
+ylioppilaskunnat 290
+kitaristit 290
+mäkihyppyvalmentajat 290
+muumit 290
+kymijoki 290
+riistaeläimet 290
+matkaviestinpalvelut 290
+viihtyisyys 290
+michael schumacher 290
+kesärenkaat 290
+louis van gaal 290
+pariisin ilmastosopimus 290
+julkisivut 289
+turkikset 289
+calgary 289
+kehitysministeri 289
+al-shabaab 289
+yliopistokeskus 289
+elämänmuutokset 289
+fuusiot ja yrityskaupat 289
+hirvensalmi 289
+citroën 289
+sairauskohtaukset 289
+lappeenrannan energia 288
+reserviläiset 288
+polttopuu 288
+yhdysvaltain kongressi 288
+loviisan seutukunta 288
+laulurinne 288
+tieliikennekäyttäytyminen 288
+rikesakko 288
+hallituskoalitio 288
+ohjuskokeet 288
+riista (liha) 288
+marine le pen 288
+kriitikot 287
+taajamat 287
+sergio ramos 287
+juhlien järjestäminen 287
+käsikirjoitukset 287
+koneiden, laitteiden ja tarvikkeiden tukkukauppa 287
+charlotte kalla 287
+nurmikot 287
+avaruusasemat 287
+ohra 287
+hanhet 287
+palvelupäällikkö 286
+avoliitto 286
+öljyvahingot 286
+nuorisojärjestöt ja -liikkeet 286
+turkisteollisuus 286
+vähäkyrö, vaasa 286
+hankinta 286
+taivaankappaleet 286
+mads østberg 286
+sjælland 286
+naisten lumilautailu 286
+sunnalaisuus 286
+multisport race 286
+kasperi kapanen 286
+ravut 286
+valaat 285
+kakut 285
+silmälasit 285
+high voltage 285
+kirjapainoala 285
+pohjoismainen elokuva 285
+mika lehkosuo 285
+yleisöäänestys 285
+salzburg 285
+jenni haukio 285
+tuottajahinnat 285
+alokkaat 285
+oulainen 285
+kouluampumiset 285
+dna oyj 285
+kiinteä polttoaine 285
+julkiset hankinnat 285
+puolukka (laji) 285
+new yorkin metropolialue 284
+tuotantopäälliköt 284
+lombardia 284
+sohvat 284
+yhdistyneiden kansakuntien yleiskokous 284
+kansainvälinen avaruusasema 284
+yritystuki 283
+tatarstan 283
+poliittinen filosofia 283
+esteettömyys 283
+satelliitit 283
+jokilaaksot 283
+finanssikriisit 283
+lapsettomuus 283
+gynekologia 283
+kuljettimet (kuljetusvälineet) 283
+ompelu 283
+sisustustekstiilit 283
+muskeliauto 283
+nopeusvalvontakamera 283
+dynamo moscow 283
+yritysverotus 283
+entiset ralliautoilijat 283
+sievi 283
+maantiede 283
+kanariansaaret 282
+itäinen suurpiiri (helsinki) 282
+400 metrin juoksu 282
+espoon kaupunki (hallinto) 282
+energiaravintoaine 282
+lehdistö 282
+kannettavat tietokoneet 282
+esa-avaruusprojektit 282
+pakasteet 282
+kodinkoneet & viihde-elektroniikka 281
+henkilöstöjohtaja 281
+2. bundesliiga 281
+vuokranantajat 281
+kielenkäyttö 281
+riikka sarasoja-lilja 281
+käärmeet 281
+kansallinen turvallisuus 281
+felipe massa 281
+suomen lippu 281
+yleisurheilun em 2014 281
+moottoriajoneuvot 280
+lazio 280
+flybe 280
+maastopyöräily 280
+maallikot 280
+destia 280
+artturi lehkonen 280
+animaatio 280
+josep guardiola 280
+pertunmaa 280
+hirvikolarit 280
+lokit 280
+naisnyrkkeilijät 280
+kartelliasiat 279
+välipalat 279
+petri matikainen 279
+luotijunat 279
+itä-norja 279
+muovikassit 279
+sähköntuotanto 279
+postikortit 279
+nälkä 279
+ensihoitajat 279
+eduskuntaryhmät 279
+yle pori 279
+urheilupolitiikka 279
+sekauinti 278
+turvallisuuspäällikkö 278
+maalivahti (jalkapallo) 278
+musiikkikoulutus 278
+koiranomistaja 278
+kiekko-vantaa 278
+namika lahti 278
+costa rica 278
+käyttöjärjestelmät 278
+elämänlaatu 278
+käsineet 278
+nuoret aikuiset 278
+raittius 278
+superruoka 278
+kääntäminen 278
+lääketieteen erikoisalat 278
+koskenkorvan urheilijat 278
+10 000 metrin juoksu 278
+pakolais- ja turvapaikkapolitiikka 278
+kulttuurihallinto 277
+ulosotto 277
+enduro 277
+olli muotka 277
+suomalaiset arkkitehdit 277
+lauri korpikoski 277
+georgia 277
+männyt 277
+poliittisesti sitoutumattomat 277
+rautamalmien louhinta 277
+pysäköintivirheet 277
+patria 277
+oppikirjat 277
+kaakkois-suomi 277
+valtatiet 277
+ruotsin sosiaalidemokraattinen työväenpuolue 277
+ampumahiihdon mm-kisat 2015 277
+virrat 276
+xinhua 276
+lauritsala, lappeenranta 276
+verinäytteen otto 276
+napoli 276
+tammat 276
+liikennöitsijät 276
+ssab 276
+mtv oy 276
+juha malinen 276
+juomaveden saastuminen 276
+terveyskeskuslääkärit 276
+elvytys 276
+poplaulajamiehet 276
+kuoriäyriäiset 276
+hanna-maria seppälä 275
+jääkaapit 275
+särkänniemi 275
+vermon ravirata 275
+finlandia-palkinto 275
+satelliittiteknologia 275
+raimo summanen 275
+suomalaiset teolliset muotoilijat 275
+tykistö 275
+utøya 275
+rautaruukki 275
+filosofit 275
+lestijärvi 275
+rauhansopimukset 275
+1500 metrin juoksu 275
+roman eremenko 275
+strömsö (tv-ohjelma) 275
+yhdessäolo 275
+arvopaperimarkkinat 274
+hannu aravirta 274
+kiikarit 274
+laukut 274
+työelämävalmennus 274
+ihmisoikeusaktivistit 274
+kylmä sota 274
+erätuotteet 274
+tuotantomäärä 274
+kivituoteteollisuus 274
+meriarkeologia 274
+esapekka lappi 274
+maria guzenina 273
+jalkaterät 273
+jesse joensuu 273
+vankileirit 273
+kuntalaisaloitteet 273
+museonjohtajat 273
+gazprom 273
+eläinten terveys 273
+järjestyslaki 273
+verkkoselain 273
+yleisötoiveet 273
+finnvera 272
+5000 metrin juoksu 272
+kinnula 272
+brittiläinen kolumbia 272
+lukiokoulutus (toisen asteen koulutus) 272
+justyna kowalczyk 272
+hätäpuhelu 272
+suola (mausteet) 272
+typpi 272
+rauta 272
+rikoksen uhrit 272
+matkailumarkkinointi 272
+ruanda 272
+tyhjentynyt rengas 272
+naisjohtajat 272
+urheiluväkivalta 272
+eläinten ruoka 272
+yle oulu 272
+hailuoto 271
+vanhuus 271
+financial ratio 271
+laitosrakentaminen 271
+vaalimaa 271
+rihanna 271
+perinnemusiikki 271
+uudet ylioppilaat 271
+alastomuus 271
+luostarit 271
+kunnioitus 271
+tampereen lounainen suuralue 271
+färsaaret 271
+paleface 270
+uzbekistan 270
+asiakaspalaute 270
+turkin superliiga 270
+prescription drug 270
+emoyhtiöt 270
+sukupuuttoon kuoleminen 270
+paperikoneet 270
+ravintoloitsijat 270
+perhoset 270
+viestintäviranomaiset 270
+sotilasparaatit 270
+ice dam 270
+viranomaisvalvonta (rahoituspalvelut) 270
+anders behring breivik 270
+julkiset yritykset 269
+chicago-gary-kenosha 269
+radiologia 269
+potilastietojärjestelmät 269
+tiedonkeruujärjestelmät 269
+reput 269
+varpuslinnut 269
+pielaveden sampo 269
+kalastusalueet 269
+budjettialijäämä 269
+ruokahävikki 269
+internet-kysely 269
+red bull racing 269
+guggenheim-museot 269
+urheilutoimittajain liitto (suomi) 268
+alex ferguson 268
+rakennusliitto (ruotsi) 268
+magnar dalen 268
+vanhempainyhdistykset 268
+renkaiden valmistus 268
+keltainen kortti (jalkapallo) 268
+sulkapallo 268
+vesilahti 268
+sienestys 268
+penkkarit 268
+videoblogit 268
+linnunpöntöt 268
+kampaamot ja kauneushoitolat 267
+hauho, hämeenlinna 267
+kasvisruokavalio 267
+virtsa 267
+spotify 267
+haapavesi 267
+euroopan kulttuuripääkaupunki 267
+jälkihiki (tv) 267
+suomalainen punk 267
+messukylä 267
+vieraslajit 267
+jääkiekon european trophy 267
+maltillisuus 267
+analyysit (yle uutiset) 267
+pianistit 266
+konditoriat 266
+reportaasit 266
+leksikologia 266
+ihmisten välinen viestintä 266
+pistoolit 266
+syysloma 266
+biotuoteteknologia 266
+ratina, tampere 265
+suomalainen muotoilu 265
+los angeles lakers 265
+kiira korpi 265
+muovijäte 265
+laskuvarjohypyt 265
+lakka (hilla) 265
+salaatit (ruokalajit) 265
+yle joensuu 265
+liiketoimintamalli 264
+villasukat 264
+malta (valtio) 264
+asuntoetu 264
+kauppapolitiikka 264
+poplaulajat 264
+tavastia-klubi 264
+national league a 264
+improvisoitu räjähde 264
+veli-matti savinainen 264
+jari kurri 264
+kommunistiset puolueet 264
+michael monroe 264
+pankinjohtajat 264
+naistenvaatteet 264
+grafiikka 264
+valehtelu 264
+lufthansa 264
+krooniset sairaudet ja oireyhtymät 264
+noormarkku, pori 264
+osavuosikatsaukset 264
+docventures 264
+laura mononen 264
+jääkiekon world cup 2016 264
+sörnäinen 263
+moldova 263
+koksin, öljytuotteiden ja ydinpolttoaineen valmistus 263
+the people of freedom 263
+vaihto-opiskelijat 263
+verenpaine 263
+financial times 263
+kauneudenhoitotuotteet 263
+tsn 263
+kadonneet lapset 263
+erikoisjoukot 263
+markus granlund 263
+alajärvi 263
+toisinajattelijat 263
+mopoautot 263
+kongon tasavalta 263
+euroopan pörssit 263
+hunaja 263
+pohjois-hollanti 263
+solomon r. guggenheimin säätiö 263
+telinevoimistelu 263
+naisten keihäänheitto 263
+miami-fort lauderdale 262
+sissitoiminta 262
+lumionnettomuudet 262
+esteratsastus 262
+kulttuuritapahtumat 262
+luulaja 262
+rekka- ja kuorma-autokuljettajat 262
+tutkijakoulutus (koulutus) 262
+markkinatutkimus (yhteiskunnallinen tuotos) 262
+liberia 262
+turvallisuuden edistäminen 262
+paavo nurmi games 262
+kotimaanmatkailu 262
+siitepöly 262
+rehevöityminen 262
+goal celebration 261
+rukous (toiminta) 261
+vuokatti 261
+naisten suunnistus 261
+maltillinen kokoomus 261
+kunto-ohjaajat 261
+pintakäsittely 261
+sähköposti 261
+imetys 261
+aggressiot 261
+joukkotappelu 261
+tornitalot 261
+maakuntauudistus 261
+joni ortio 260
+vastaanottotarkastus 260
+vehnä 260
+asemakaavamuutos 260
+tanssilavat 260
+vapaapalokunnat 260
+newcastle upon tyne 260
+málaga 260
+women's tennis association 260
+suomi-sarja 260
+tuloerot 260
+kaupunkiliikenne 260
+listat (musiikki) 260
+olli kunnari 260
+urpo sivula 260
+kädentaidot 260
+geoterminen energia 259
+kulttuurilautakunnat 259
+merikotka 259
+asuntopolitiikka 259
+hiihtohissit 259
+kesä 259
+vietnam 259
+murteet 259
+silmätaudit 259
+magneettitutkimus 259
+lastenvaatteet 259
+cleveland cavaliers 259
+boston-worcester-lawrance 259
+investointipankit 259
+kävely 259
+jälki-istunto 259
+joululaulut 259
+yhdysvaltain yliopistot 259
+ruoka 259
+rikkakasvit 259
+tutkintavankeus 259
+stand up -komiikka 259
+motocross 259
+yleisurheilun em 2018 259
+viisumivapaus 258
+lumiaura 258
+akateemiset opiskelijat 258
+liikuntavammat (liikunnassa syntyneet) 258
+henkilökuntaedut 258
+perparim hetemaj 258
+kamppi 258
+työuupumus 258
+west bromwich albion fc 258
+mars (planeetat) 258
+tuotteen takaisinveto 258
+roskaaminen 258
+kuha 258
+kymmenjalkaiset 258
+mosul 258
+yhteisyritykset 257
+katuvalaistus 257
+luottamustoimet 257
+ryhmän johtajuus 257
+metsästysseurat 257
+kuorma-auto- ja rekkaonnettomuudet 257
+vilppi 257
+voimakoneet 257
+suomenniemi 257
+nizza 257
+lentopallon miesten 1-sarja 257
+pulla 257
+tupakoinnin lopettaminen 257
+kassanhoitajat 257
+karaoke 257
+kulttuuriympäristö 257
+pommiuhka 257
+kausiluonteiset allergiat 257
+kuluttajansuoja 257
+lastensuojelulaitokset 256
+kutsumus 256
+veturinkuljettajat 256
+jengit 256
+katastrofiapu 256
+filosofia 256
+lidl 256
+martti ahtisaari 256
+vfl wolfsburg 256
+markkinaosuus 256
+sanoitukset 256
+unettomuus 256
+valokuituverkot 256
+satelliittipaikannus 256
+irtisanomissuoja 256
+lapuan virkiä (pesäpallo) 256
+jäätilanne ja tulvat 256
+keva (kuntien eläkevakuutus) 256
+kymmenottelu 256
+pyöräilyn maailmancupjoukkueet 255
+lainan takaus 255
+murhaepäilty 255
+ss lazio 255
+adolf hitler 255
+hake 255
+täydennyskoulutus 255
+takaus 255
+rikkaat maat 255
+pertti kurikan nimipäivät 255
+sotilaskoulutus 255
+pöydät 255
+kokoukset 255
+salavat julajev ufa 255
+hyundai motor company 255
+pornografia 255
+virkavapaus 255
+maistraatit 255
+jukka poika 255
+sulkava 255
+dinamo minsk 254
+nuuska 254
+palkanalennus 254
+kirkosta eroaminen 254
+tupakointikielto 254
+miesjohtajat 254
+terroristijohtajat 254
+senaattorit 254
+ursa ry 254
+kuituoptiikka 254
+johtajaylilääkäri 254
+rakennustarkastajat 254
+verovähennykset 254
+helatorstai 254
+isokyrö 254
+selkämeri 254
+joel pohjanpalo 254
+ac oulu 254
+pääsiäispyhät 254
+marimekko 253
+sukupolvenvaihdos 253
+kasvava tuotanto 253
+korkeasaari 253
+työnjohtajat 253
+matkatavarat 253
+vaatemallistot 253
+kiipeily 253
+toni kohonen 253
+1700-luku 253
+ruka 253
+silverstone circuit 253
+iaea 252
+heijastimet 252
+oikeudenhoito 252
+rauhanaktivisti 252
+schengen-alue 252
+kupari 252
+torjunta-aineet 252
+lastenkirjallisuus 252
+olli palola 252
+hengellisyys 251
+ajo motorsport 251
+hkscan 251
+torino 251
+entiset kumppanit 251
+crystal palace fc 251
+työkyvyttömyyseläkkeet 251
+posti- ja logistiikka-alan unioni (pau) 251
+eloperäiset jätteet 251
+armenia 251
+kasmir 251
+suomalaiset pesäpallopelaajat 251
+länsi-pori 251
+nurmo 251
+suomiareena 251
+kreikkalaiset poliitikot 251
+eräviikingit (miesten salibandy) 250
+turenki, janakkala 250
+mäntsälä 250
+samsung electronics 250
+minna nikkanen 250
+kulku- ja katukauppa 250
+pysäköintivirhemaksut 250
+taidepalkinnot 250
+joulusesonki 250
+halvaus 250
+tommi mäkinen 250
+kuluttajamarkkinointi (b2c) 250
+ympäristöteknologia 250
+susanna huovinen 250
+mieliala 250
+zimbabwe 250
+leicester 250
+yritysvastuu 249
+f1-tallipäällikkö 249
+kiinteistösijoittaminen 249
+lihanjalostus 249
+düsseldorf 249
+skandinavia 249
+polttoainetukkukauppa 249
+perhepäivähoito (päivähoito) 249
+hlbt-liike 249
+pääomasijoitus 249
+rintasyöpä 248
+asuntoministeri 248
+yritysrahoitus 248
+kasvihuoneet 248
+kritiikki 248
+panettelu 248
+markus mustajärvi 248
+räjähdysaineiden valmistus 248
+martin fourcade 248
+uumaja 248
+matti hautamäki 248
+elisabet ii 248
+kaapit 248
+joukkojenhallinta 248
+satukirjat 248
+juoksukilpailut 248
+lohen kalastus 248
+mänttä 248
+aurinkopaneelit 248
+teemu pulkkinen 248
+jääkiekon mm 2018 248
+super-em 2018 248
+romance 247
+metroasemat 247
+trentino-alto adige 247
+islamistiset puolueet 247
+yhteiskunnalliset järjestelmät 247
+alakoulu 247
+skanska 247
+kone oyj 247
+philadelphia-wilmington-atlantic city 247
+kerjääminen 247
+norjan tragedia 247
+optiset laitteet 247
+kaakkoinen suurpiiri (helsinki) 247
+turvavyöt 247
+tiger woods 247
+kauppatori (helsinki) 247
+avohoito 247
+supersankarit (sankarit) 246
+malmi 246
+vakinainen työsuhde 246
+tradeka-yhtymä 246
+lämmön & energian kierrätys 246
+varallisuusoikeus 246
+yksinhuoltajuus  246
+lokomotiv jaroslavl 246
+kaupunkien asukasmäärät 246
+suomenhevonen 246
+antti pihlström 246
+ylistaro 246
+ilja kovaltšuk 246
+tikkurila 246
+eriarvoisuus 246
+hautamuistomerkit 246
+niveljalkaiset 246
+kädet 245
+puutarhakoneet 245
+pizzeriat 245
+vesanto 245
+sidosryhmät 245
+jukka gustafsson 245
+biopolttoaineiden valmistus 245
+syyslukukausi 245
+köln 245
+suolahti 245
+naapurusto 245
+laskevat pörssikurssit 245
+kuivuus 245
+kaukoliikenne 245
+lentokoneen alasampuminen 245
+uimalat 245
+esiintyminen toisena henkilönä 245
+verotiedot 245
+ilmatorjunta 244
+turvallisuusuhka 244
+protestantismi 244
+kyrönjoki 244
+työkokemus 244
+kansainväliset markkinat 244
+jämsänkoski 244
+minna kauppi 244
+sisustustuotteet 244
+roope tonteri 244
+murrosikä 244
+maksullinen pysäköinti 244
+jukka rautakorpi 244
+everstit 244
+r-kioski 244
+haiti 244
+jooga 244
+kevan johtohenkilöstö 244
+suur-manchester 243
+kodinhoito 243
+niska 243
+time management 243
+terveydenhoitolait 243
+kettu 243
+vastarintaliikkeet 243
+suomen kuvalehti 243
+minäkuva 243
+nobelin rauhanpalkinto 243
+norsut 242
+virkkaus 242
+perhevapaa 242
+käyttöliittymäteknologiat 242
+fossiilit 242
+musiikkikorkeakoulut ja konservatoriot 242
+hartiat 242
+tietokannat 242
+standard & poor's 242
+kuntotestit 242
+mark webber 242
+raskaat ajoneuvot 242
+aalto-yliopiston taiteiden ja suunnittelun korkeakoulu 241
+kuvantamistutkimukset 241
+fennoskandia 241
+trooppinen hirmumyrsky 241
+poliittiset yhteiskuntatieteilijät 241
+suur-tapiola 241
+merimiehet 241
+sosiologia 241
+suomalainen tango 241
+ahvenkalat 241
+kauppalehti 241
+senaatintori 241
+mielisairaalat 241
+ammattikorkeakoulututkinnot 241
+kanteet 241
+michigan 241
+kokit (bakteerit) 241
+ulkomaantoimittajat 241
+rehuntuotanto 241
+emu 240
+jänikset 240
+tampere-talo 240
+avantouinti 240
+hengellinen musiikki 240
+päänsärky 240
+kypärät 240
+murmansk 240
+hämeenkoski 240
+hyötykasvit 240
+sotshi 2014 maastohiihto  240
+marcus sandell 239
+sketsit 239
+nuorisokulttuuri 239
+janne happonen 239
+talouselämä 239
+oilers (miesten salibandy) 239
+tuotekehitys 239
+vesiväylät 239
+harrastustilat 239
+sotilasajoneuvot 239
+maksuvälinerikokset 239
+fire insurance 239
+testit 239
+kuntavaalit 2017 239
+pelikulttuuri 239
+havaiji 238
+norwich city fc 238
+tromssan lääni 238
+lähetystyö 238
+sosiaalinen vastuu 238
+hiilidioksidipäästöt 238
+pääesikunta 238
+suur-leppävaara 238
+sosiaalivirasto 238
+italian poliittiset puolueet 238
+iphone 238
+veripalvelu 238
+pelastusliivit 238
+miesten yleisurheilun legendat 238
+yyteri 238
+rullalautailu 238
+panama 238
+kompostointi 237
+rautatieliikenteen henkilökunta 237
+tiedelehdet 237
+sydney (kanada) 237
+kyberavaruus 237
+kirjastoautot 237
+suuronnettomuudet 237
+antarktis 237
+kauppaketjut 237
+ruokalistat 237
+perungan pojat 237
+taksinkuljettajat 237
+haloo helsinki! 237
+kalasatama 237
+perf1 237
+teksti-tv häme 237
+lukutaito 236
+sanaa 236
+pyykinpesu 236
+redrama 236
+luonnonsuojelijat 236
+palvelimet 236
+carlo ancelotti 236
+kansainvälinen työjärjestö 236
+maatalousrakennukset 236
+yle turku 236
+human rights watch 235
+kemiönsaari 235
+escherichia coli -infektiot 235
+tuottajat 235
+historiankirjat 235
+olohuoneet 235
+linja-autopysäkki 235
+omsk 235
+politiikan toimittajat 235
+rekisterit 235
+rumpalit 235
+proteiinit 235
+jyväskylän energia -konserni 235
+vakuutusala 235
+vauvanhoito 235
+pekka jormakka 235
+suomen terveystalo 235
+golden state warriors 235
+euroopan unionin johto 235
+liikennesuunnittelu (yhdyskuntasuunnittelu) 235
+autoliitto 235
+kimmo kuhta 235
+jääkiekkopelaajat (naiset) 235
+puoli seitsemän 235
+bonnier 234
+itäslaavilaiset kielet 234
+öljyntorjunta 234
+yhteiskunnalliset liikkeet 234
+levy- ja hitsausala 234
+maaseutuväestö 234
+ihmisoikeusloukkaukset 234
+sadevesijärjestelmät 234
+metsurit 234
+metallituoteteollisuus 234
+juomaveden laatu 233
+teuva 233
+osastonhoitajat 233
+israelilaiset poliitikot 233
+kaupalliset kiinteistöt 233
+pentagon 233
+naisten golf 233
+data management 233
+dublin 233
+brasilian jalkapallo 233
+guinea 233
+puutiaiset 233
+retkeilyteltat 233
+ennustaminen 233
+kivikausi 233
+rupla 233
+yle maailmalla: moskova 233
+vaneri 232
+egyptin poliittiset puolueet 232
+lämmittely 232
+hätäkokous 232
+urheiluautot 232
+yrityslaki 232
+enonkoski 232
+öljynporaus 232
+momenttimagnitudi 232
+valokuitulaajakaista 232
+belgrad 232
+puusepät 232
+työeläkemaksu 232
+hallintoneuvostot 232
+länsimainen lääketiede 232
+etelä-eurooppa 232
+rikollinen moottoripyöräkerho 232
+lakiehdotukset 232
+sinisorsa 232
+vankilapako 232
+kauneuskilpailut 232
+sl benfica 232
+petra olli 232
+ylioppilaslakit 232
+curling 232
+tanssipaikat 232
+mediakasvatus 232
+alppihiihdon mm-kisat 2015 232
+korihait 231
+juha rehula 231
+rakennuskoneet 231
+huumeseulat 231
+triathlon 231
+the washington post 231
+oopperalaulajat 231
+lenkkikengät 231
+kiertoliittymä 231
+lappee 231
+harmonikka 231
+koliformiset bakteerit 231
+sääsket 231
+roy hodgson 231
+kluuvi 231
+kioton pöytäkirja 231
+varsova 230
+super bowl 230
+rakennusurakka 230
+sikiö 230
+costa del sol 230
+urheilukanavat (tv) 230
+ilmasotakoulu 230
+porin prikaati 230
+vahinkojen torjunta 230
+kirittäret 230
+tasa-arvo työelämässä 230
+italialainen keittiö 229
+emeritusprofessori 229
+li andersson 229
+venäjän liittokokous 229
+savonlinnan pallokerho (sapko) 229
+valtioneuvoston kanslia 229
+kalanviljely 229
+kadonneet lentokoneet 229
+futsal 229
+harrastajateatterit 229
+joulukoristeet 229
+joulutunnelma 229
+koiran koulutus 229
+kalastusluvat 229
+tapakulttuuri 229
+entiset keihäänheittäjät (miehet) 229
+lyon 228
+ohjelmistojen suunnittelu, valmistus ja konsultointi 228
+arkku (hautajaiset) 228
+zagreb 228
+kadonnut vanhus 228
+maa- ja elintarviketalouden tutkimuskeskus 228
+kiasma 228
+julkiset menot 228
+kaksoset 228
+pulmapeli 228
+tesoma 228
+urheiluvaatteet 228
+renault 228
+lääketieteellinen tiedekunta 228
+tuontikielto 228
+torpan pojat 228
+kreikan poliittiset puolueet 228
+lastenkodit 227
+aktinidit 227
+epäonnistuminen 227
+tarjoustuote 227
+pohjois-karjalan talviurheilukeskukset 227
+kasvihuoneilmiö 227
+huoltopäällikkö 227
+velkakirjat 227
+tykky 227
+lakietiikka 227
+ehdollinen tuomio 227
+polvileikkaus 227
+osastopäälliköt 227
+rakennusmestarit 227
+konfirmaatio (kirkolliset toimitukset) 227
+fintelligens 227
+mikko esko 227
+suomen kansallispuistot 227
+ylityökielto 227
+daniel ricciardo 227
+kaupan liitto (suomi) 227
+metsä fibre 226
+vattenfall 226
+urheiluliikkeet 226
+suur-savon sähkö 226
+piirustus 226
+taistelussa kuolleet sotilaat 226
+siipikarjanhoito 226
+euroopan ihmisoikeustuomioistuin 226
+mellakkapoliisi 226
+traktor tšeljabinsk 226
+mikko koskinen 226
+verkkoviestintä 226
+quebec 226
+lumivyöryt 226
+huppari 226
+perhe-elämä 226
+autodromo nazionale monza 226
+työttömyysturvan aktiivimalli 226
+norovirus 225
+satamatyöntekijät 225
+disney media group 225
+valtiontalouden tarkastusvirasto 225
+sakari salminen 225
+athletic bilbao 225
+nokian matkapuhelimet 225
+ahven 225
+turvalaitteet 225
+lautapelit 225
+soul & rnb 225
+olympique de marseille 225
+tv: 2000-luku 225
+espanjan kieli 225
+honkajoki 225
+auton rekisterinumero 225
+katu-urheilu 225
+counter-strike: global offensive 225
+jouni backman 224
+tulivuoren tuhka 224
+digitaalinen markkinointi 224
+kongon demokraattinen tasavalta 224
+aidat 224
+sami kapanen 224
+adele 224
+poliittiset vangit 224
+bloomberg l.p. 224
+poliisin vihjepuhelin 224
+kalakuolemat 224
+savonlinnan oopperajuhlat 224
+närpiö 224
+pakolaisjärjestöt 224
+petri pasanen 224
+tiedustelu 224
+rintakehä 223
+valistuskampanjat 223
+langaton tekniikka 223
+juha-pekka haataja 223
+senegal 223
+osama bin laden 223
+vasenryhmä (vr) 223
+nesteytetty maakaasu 223
+vetäytyminen (poistuminen) 223
+kantajänne 223
+suutelu 223
+alumiini 223
+ympäristöterveydenhuolto 223
+abc-huoltoasemaketju 223
+marjanviljely 223
+suomenlinna 223
+rikosseuraamusvirasto 223
+britannian grand prix 223
+pride-paraatit 223
+joululiikenne 223
+muistotilaisuudet (seremoniat) 223
+uskonnolliset johtajat 222
+talvivaatteet 222
+nousevat pörssikurssit 222
+sveriges radio 222
+sanasota 222
+kaksoiskansalaisuus 222
+rikosrekisterit 222
+julkisen sanan neuvosto 222
+koiran hoito 222
+koululait 222
+kuntoreitit 222
+sierra leone 222
+balkan 222
+ruis 222
+sari essayah 222
+ruoka ja juoma 222
+eeli tolvanen 222
+fysikaalinen hoito 221
+solut 221
+isänmaallisuus 221
+kosmetiikkateollisuus 221
+selkäuinti 221
+hakaniemi 221
+soija ja palkokasvit 221
+marcel hirscher 221
+sosiaalihuolto 221
+toni wirtanen 221
+lastenpsykiatria 221
+korvatautioppi 221
+cnn 221
+kuntolaitteet & kuntoiluvälineet 221
+seikkailukirjallisuus 221
+elämäkerrat 221
+ihmiskunta 221
+naisten kauneuskilpailut 221
+tyrnävä 221
+kiihottaminen kansanryhmää vastaan 221
+riihimäen cocks 221
+alternative metal 221
+urheilun kykyjenetsijät 221
+annika saarikko 221
+toimeentulotuki 221
+pariisin terrori-iskut 221
+purjelautailu 220
+moottorisahat 220
+sahara 220
+mynämäki 220
+mohammed mursi 220
+lentomäki 220
+verkkokalastus 220
+luksusasunnot 220
+eläintenhoito 220
+pörssiin listautuminen 220
+ihotaudit 220
+pohjois-atlantin liiton pääsihteeri 220
+keskisuomalainen 220
+nevada 220
+myymäläkiinteistö 220
+kuolemaan johtava sairaus 220
+historiantutkijat 220
+elokuvateollisuus 220
+yleiset kirjastot 219
+vammantuottamus 219
+mario balotelli 219
+vesijärvi, lahti 219
+huoneluku 219
+pienhiukkaset 219
+yli-ii 219
+liikunnanopettajat 219
+toipuminen 219
+kulkuneuvoja koskevat rekisterit 219
+laiton web-sisältö 219
+rituaalit 219
+parta 219
+kosket 219
+silminnäkijä (tv) 219
+kansainvälinen rikostuomioistuin 219
+sosiaalipsykologia 219
+varhaisperuna 219
+suomen kulttuurirahasto 219
+ohjustentorjunta 219
+yle hämeenlinna 219
+mira potkonen 219
+copa américa 219
+ympäristökonferenssit 219
+tuuli petäjä-sirén 218
+provence-alpes-côte d'azur 218
+sähkölasku 218
+elintaso 218
+henget (satuolennot) 218
+onnibus.com 218
+tekstiviestit 218
+dieselautot 218
+kognitio 218
+muiden ei-metallisten mineraalituotteiden valmistus 218
+yrittäjät 218
+verenluovutus 218
+mehut 218
+mehtimäki, joensuu 218
+eläinsuojelulaki 218
+myymälät 218
+chatti 218
+vammaisurheilu 218
+tähtien sota (1977 elokuva) 217
+james bond 217
+syöksylasku 217
+sumu 217
+liikesuhteet 217
+koulutuspäälliköt 217
+rautakaupat 217
+tiedontallennusmuodot 217
+moody's corporation 217
+radiotoimittajat 217
+kalevala 217
+ossi väänänen 217
+pilapiirrokset 217
+ohio 217
+roope kakko 217
+tavarajuna 217
+hizbollah 216
+markkinointipäälliköt 216
+laserjolla 216
+puhelinmyynti 216
+akut 216
+yhteiskuntatieteilijät 216
+tuusniemi 216
+kelkkailu 216
+suomen kuntaliitto 216
+ljubljana 216
+associated press 216
+tapetit 216
+caterham f1 team 216
+sotilaslaki 216
+william 216
+luostarijärjestelmä 216
+ilmakiväärit (ampuma-aseet) 216
+jussi markkanen 216
+merenpohjat 216
+jenson button 216
+luhanskin alue 216
+koripallon em 2017 216
+royal dutch shell 215
+d-vitamiini 215
+sisilia 215
+islamilainen demokratia 215
+jälkiviisaat (tv) 215
+kunto 215
+viinijärvi 215
+työtelineet 215
+ohjelmapalvelut 215
+surunvalittelu 215
+sokeus 215
+tulkkaus 215
+mafia 215
+vuosaari 215
+pukeutumisetiketti 215
+markkinointijohtaja 215
+päivälämpötila 215
+espoon honka 215
+jenni vartiainen 215
+antti törmänen 215
+panaman paperit 215
+maalämpö 214
+rauha, lappeenranta 214
+marseille 214
+sofi oksanen 214
+tupakkalaki 214
+tupakoimattomuus 214
+seta ry 214
+ahtaus-, satama- ja telakkapalvelut 214
+syyllisyyden myöntäminen 214
+dna-testit 214
+puserot 214
+västerbottenin lääni 214
+päivälliset 214
+ikkunat 214
+pop rock 214
+union pour un mouvement populaire 214
+hallituskriisi 214
+frisbeegolf 214
+porin pesäkarhut 214
+rantalinnut 214
+tampereen kaupunginvaltuusto 213
+hintakilpailu 213
+sikojen sairaudet 213
+lapsi- ja nuorisopsykiatria 213
+big air (lumilautailu) 213
+ryhmätyö 213
+painot (voimaharjoittelu) 213
+armahdus 213
+pohjoisnapa 213
+kaksikielisyys 213
+merenpinta 213
+piirakat 213
+joulukinkku 213
+puutarhakasvit 213
+gareth bale 213
+naisten salibandy 213
+kultaranta 213
+trump organization 213
+kilpailunvastaiset toimenpiteet 212
+ruoantuotanto 212
+kasvisruoat 212
+san antonio spurs 212
+matias strandvall 212
+rotta (laji) 212
+sopraanot 212
+alaska 212
+lastensairaalat 212
+dario cologna 212
+aseella uhkailu 212
+110 metrin aitajuoksu 212
+jalostus 212
+ympäristölainsäädäntö 212
+viron maakunnat 212
+game of thrones 212
+amerikkalaisen jalkapallon pelaajat 211
+siviilioikeus 211
+läntinen suurpiiri (helsinki) 211
+metsäkauris 211
+paloautot 211
+meyer turku oy 211
+kilpailut (tapahtumat) 211
+news uk 211
+haukikalat 211
+varovaisuus 211
+joukkorahoitus 211
+finanssialan keskusliitto 211
+aineelliset vahingot 211
+suomalainen työ 211
+honduras 211
+parasitismi 211
+koulu-uudistus 211
+ville husso 211
+xi jinping 211
+yle tampere 211
+ylivelkaantuminen 210
+kummit 210
+fingrid 210
+kansalaisten valvonta 210
+vanhempainloma 210
+tulostimet 210
+suomen akatemia 210
+ydinjätteet 210
+robin 210
+valtioiden rajat 210
+physical security 210
+koirankasvattajat 210
+auringonotto 210
+palokka, jyväskylä 210
+maratontapahtumat 210
+työstökoneiden valmistus 210
+romain grosjean 210
+etiketti (tapakulttuuri) 210
+suomalaiset stand up -koomikot 210
+aulanko, hämeenlinna 210
+konduktöörit 210
+800 metrin juoksu 210
+stefan löfven 210
+langaton tukiasema 209
+terveydenhoidon tietojärjestelmät 209
+mikko paatero 209
+likud 209
+urheilulehdet 209
+puolijohteet ja aktiivikomponentit 209
+suksisauvat 209
+pedersören kunta 209
+putkiremontti 209
+3d-grafiikka 209
+jere karalahti 209
+ydinkokeet 209
+arkijärki 209
+perimä 209
+musiikkimaku 209
+moraaliasiat 209
+pekka perä 209
+sukupolvet 209
+hyvä kannattavuus 208
+talouspäälliköt (ammatit) 208
+keskihinta 208
+viking line 208
+centre-right coalition 208
+valmismatkat 208
+boeing 208
+päihdepolitiikka 208
+rekisterikilvet  208
+peligenret (tietokone- tai konsoli-) 208
+kuohuviinit 208
+asiakastiedot 208
+utajärvi 208
+steve moses 208
+psykologipalvelut 208
+myrskyvaroitus 208
+tomaatti 208
+purot ja poukamat 208
+tiesuunnittelu 208
+psv eindhoven 208
+vieheet 208
+arjen robben 208
+vääksy 208
+christmas dinner 208
+sello 207
+teinitytöt 207
+aatteelliset säätiöt 207
+lankapuhelimet 207
+ilmapuolustus 207
+helmet 207
+myytävien tuotteiden alkuperä 207
+maksuhäiriöt 207
+paritus 207
+konetuliase 207
+yleisindeksi 207
+mielikuvamarkkinointi 207
+lippalakit 207
+kattotyö 207
+turvamiehet 207
+viulistit 207
+lääkäriliitto 207
+venyttely 207
+koiraharrastukset 207
+järvi-suomi 207
+tuholaistorjunta 207
+2011 207
+kuluttajavirasto 207
+ravustus 207
+miesten yhdistetty 207
+eroaminen euroopan unionista 207
+kotisiivous (siivouspalvelut) 206
+markus kajo 206
+mikael forssell 206
+maksukyvyttömyys 206
+immateriaalioikeus 206
+tekijänoikeuden loukkaus 206
+meilahti 206
+elokuvatuottajat 206
+aineenvaihdunta 206
+mika kojonkoski 206
+valelääkäri 206
+seksuaalisuus 206
+kaapelilaajakaista 206
+yhdysvaltojen entiset presidentit 206
+sopupelit 206
+sängyt 206
+vierumäki 206
+seitsenottelu 206
+poliittinen kriisi 206
+sardinia 206
+yötyö 206
+sähköinen asiointi 206
+kimmo sasi 206
+kirjoittaminen 206
+madonna 206
+biologit 206
+eduskuntatalo 206
+musta laatikko (liikenne) 206
+yle mikkeli 206
+konkurssihakemus 205
+renko 205
+valmisruoat 205
+kalastuslainsäädäntö 205
+nykyaikainen r&b 205
+eintracht frankfurt 205
+työn suunnittelu 205
+venla kokkonen 205
+raskaan kaluston varusteet 205
+ria novosti 205
+lumilinnat 205
+bolton wanderers fc 205
+eurostat 205
+lavia 205
+avaruustukikohdat 205
+hulevesi 205
+teollisuuden sähkölaitteet 204
+uintikisat 204
+perheyritysten liitto 204
+riskienhallinta 204
+hugo chávez 204
+armeijan valtaukset 204
+näyttelytilat 204
+tapiola 204
+digitalous 204
+jäätanssi 204
+janne ryynänen 204
+markus lohi 204
+taseet 204
+konservointi 204
+nelonen 204
+valokuvataide 204
+erityislapset 204
+antti muurinen 204
+puutiaisaivotulehdus 204
+ykköspesis 204
+rauniot 204
+urkintakohu 204
+tubettajat 204
+aléxis tsípras 204
+wlan 203
+jousisoittimet 203
+eu-tuomioistuin 203
+the beatles 203
+nové město 203
+teleterveydenhuolto 203
+tennislegendat (miehet) 203
+performanssi 203
+haulikkoammunta 203
+pannuhuone 203
+jarkko ruutu 203
+karkkila 203
+teinipop 203
+vapaudenriisto 203
+kiteen pallo 203
+sauber-ferrari 203
+kauppasaarto 203
+nsa 203
+paperi t 203
+malaysia airlines 203
+petri vehanen 202
+liito-orava 202
+vuokralääkärit 202
+kehityspäällikkö 202
+subsidized housing 202
+lapin liitto 202
+vammala 202
+kutu 202
+ohjelmointi 202
+pohjois-karjalan sähkö 202
+dinosaurukset 202
+kylmäverinen hevonen 202
+valoesitykset ja valotaide 202
+jari koskinen 202
+yhdyskuntaseuraamus 202
+etätyö 202
+nettipankkitunnukset 202
+yliopiston rehtori 202
+julisteet 202
+pandat 202
+puurot 202
+koillinen suurpiiri (helsinki) 202
+mainostoimistot 202
+suomalaiset runoilijat 202
+anaboliset steroidit 202
+hiilihydraatit 202
+hämeenkyrö 202
+punaiset (suomen sisällissota) 202
+kasarmit 201
+antti kaikkonen 201
+suuret öljy- ja kaasuyhtiöt 201
+kielenhuolto 201
+laboratoriotutkimukset 201
+david ferrer 201
+jääkarhu 201
+halpabussiyhtiö 201
+lasten turvallisuus 201
+villarreal cf 201
+kielioppi 201
+ei-standardi web-sisältö 201
+karttula, kuopio 201
+kukkaistutus 201
+kansallissymbolit 201
+talousjärjestelmät 201
+sandra eriksson 201
+niklas hagman 201
+animaatioelokuvat 201
+biljardi 201
+riika 201
+kirjamessut 201
+lordi 201
+englannin miesten jalkapallomaajoukkue 201
+fk zenit pietari 201
+salibandyn mm-kisat 201
+sotilasalueet 200
