@@ -37,23 +37,60 @@ def get_sample_text(df_text, sample_ids):
     return df_sample
 
 
-def get_clusters(lda, corpus, min_prob=0.1):
+def sort_tuple(tup):
+
+    # reverse = None (Sorts in Ascending order)
+    # key is set to sort using second element of
+    # sublist lambda has been used
+    tup.sort(key=lambda x: x[1], reverse=True)
+    return tup
+
+
+def get_clusters(lda, corpus, min_prob=0.2):
     clusters = [list() for i in range(20)]
 
     for i, doc in enumerate(corpus):
-        topics = lda.get_document_topics(doc, minimum_probability=min_prob)
+        topics = lda.get_document_topics(doc)
+        topics = sort_tuple(topics)
+        temp = [i[0] for i in topics if i[1] >= min_prob]
+        # if no topic qualify the min prob, get the first one
+        if len(temp) == 0:
+            clusters[topics[0][0]].append(i)
 
-        # incase not belong to any topic > threshold
-        if len(topics) == 0:
-            topics = lda.get_document_topics(doc)
-            topics = [topics[0]]
-
-        topics = [t[0] for t in topics]
-
-        for topic in topics:
+        # else get the max 2 topics for the doc
+        for topic in temp[:2]:
             clusters[topic].append(i)
 
     return clusters
+
+
+def get_clusters_per_doc(lda, corpus):
+    clusters = []
+
+    for i, doc in enumerate(corpus):
+        topics = lda.get_document_topics(doc)
+        topics = sort_tuple(topics)
+        clusters.append(topics)
+
+    return clusters
+
+# def get_clusters(lda, corpus, min_prob=0.1):
+#     clusters = [list() for i in range(20)]
+
+#     for i, doc in enumerate(corpus):
+#         topics = lda.get_document_topics(doc, minimum_probability=min_prob)
+
+#         # incase not belong to any topic > threshold
+#         if len(topics) == 0:
+#             topics = lda.get_document_topics(doc)
+#             topics = [topics[0]]
+
+#         topics = [t[0] for t in topics]
+
+#         for topic in topics[:2]:
+#             clusters[topic].append(i)
+
+#     return clusters
 
 
 def get_cluster_change(clusters, sample):
@@ -71,9 +108,12 @@ def get_cluster_change(clusters, sample):
 
 
 def load_model(i):
-    path = os.path.join('models/lda/lda_models/lda_sample_' + str(i))
+    path = os.path.join('models/lda/models/lda_sample_' + str(i))
+    if not os.path.isfile(path):
+        return False, False
+
     model = LdaModel.load(path)
-    dct = Dictionary.load('models/lda/lda_models/lda_sample_' + str(i) + '.id2word')
+    dct = Dictionary.load('models/lda/models/lda_sample_' + str(i) + '.id2word')
     return model, dct
 
 
@@ -92,7 +132,7 @@ if __name__ == '__main__':
     df.drop(['title', 'body', 'subjects', 'date'], axis=1, inplace=True)
 
     print('load samples')
-    dataset = pickle.load(open("data/dev/dataset_1_event.pkl", "rb"))
+    dataset = pickle.load(open("data/prod/dataset_2_docs.pkl", "rb"))
 
     # dataset = list(range(10000))
     # df = pd.DataFrame()
@@ -102,12 +142,15 @@ if __name__ == '__main__':
         sample = dataset[i]
         sample.reset_index(inplace=True, drop=True)
         model, dictionary = load_model(i)
+        if not model:
+            print('Error sample:', i)
+            return i
         sample_text = get_sample_text(df, sample['id'])
         corpus = [dictionary.doc2bow(doc) for doc in sample_text['tokens']]
-        clusters = get_clusters(model, corpus, min_prob=0.2)
+        clusters = get_clusters_per_doc(model, corpus)
 
         # # save clusters
-        pickle.dump(clusters, open("models/lda_cluster/clusters_" + str(i) + ".pkl", "wb"))
+        pickle.dump(clusters, open("models/lda/clusters/clusters_" + str(i) + ".pkl", "wb"))
         print('Done:', i)
         return i
 
@@ -118,7 +161,7 @@ if __name__ == '__main__':
         # missing = done + missing
 
         # data = [i for i in range(2000) if i not in missing]
-        data = range(2000)
+        data = range(880, 1000)
         p = Pool(4)
 
         for i in data:
